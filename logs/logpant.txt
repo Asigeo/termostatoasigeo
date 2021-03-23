@@ -1,0 +1,2311 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+touch
+1
+event at 1599638592.089347, code 57, type 03, val 22
+event at 1599638592.089347, code 53, type 03, val 489
+event at 1599638592.089347, code 54, type 03, val 294
+event at 1599638592.089347, code 330, type 01, val 01
+event at 1599638592.089347, code 00, type 03, val 489
+event at 1599638592.089347, code 01, type 03, val 294
+event at 1599638592.089347, code 00, type 00, val 00
+event at 1599638592.156417, code 53, type 03, val 488
+event at 1599638592.156417, code 54, type 03, val 297
+event at 1599638592.156417, code 00, type 03, val 488
+event at 1599638592.156417, code 01, type 03, val 297
+event at 1599638592.156417, code 00, type 00, val 00
+event at 1599638592.189982, code 54, type 03, val 300
+event at 1599638592.189982, code 01, type 03, val 300
+event at 1599638592.189982, code 00, type 00, val 00
+event at 1599638592.206779, code 53, type 03, val 486
+event at 1599638592.206779, code 54, type 03, val 306
+event at 1599638592.206779, code 00, type 03, val 486
+event at 1599638592.206779, code 01, type 03, val 306
+event at 1599638592.206779, code 00, type 00, val 00
+event at 1599638592.223575, code 53, type 03, val 482
+event at 1599638592.223575, code 54, type 03, val 322
+event at 1599638592.223575, code 00, type 03, val 482
+event at 1599638592.223575, code 01, type 03, val 322
+event at 1599638592.223575, code 00, type 00, val 00
+event at 1599638592.240362, code 53, type 03, val 480
+event at 1599638592.240362, code 54, type 03, val 332
+event at 1599638592.240362, code 00, type 03, val 480
+event at 1599638592.240362, code 01, type 03, val 332
+event at 1599638592.240362, code 00, type 00, val 00
+event at 1599638592.257156, code 53, type 03, val 476
+event at 1599638592.257156, code 54, type 03, val 350
+event at 1599638592.257156, code 00, type 03, val 476
+event at 1599638592.257156, code 01, type 03, val 350
+event at 1599638592.257156, code 00, type 00, val 00
+event at 1599638592.273977, code 53, type 03, val 474
+event at 1599638592.273977, code 54, type 03, val 359
+event at 1599638592.273977, code 00, type 03, val 474
+event at 1599638592.273977, code 01, type 03, val 359
+event at 1599638592.273977, code 00, type 00, val 00
+event at 1599638592.290760, code 53, type 03, val 472
+event at 1599638592.290760, code 54, type 03, val 373
+event at 1599638592.290760, code 00, type 03, val 472
+event at 1599638592.290760, code 01, type 03, val 373
+event at 1599638592.290760, code 00, type 00, val 00
+event at 1599638592.307555, code 53, type 03, val 471
+event at 1599638592.307555, code 54, type 03, val 378
+event at 1599638592.307555, code 00, type 03, val 471
+event at 1599638592.307555, code 01, type 03, val 378
+event at 1599638592.307555, code 00, type 00, val 00
+event at 1599638592.324348, code 53, type 03, val 470
+event at 1599638592.324348, code 54, type 03, val 383
+event at 1599638592.324348, code 00, type 03, val 470
+event at 1599638592.324348, code 01, type 03, val 383
+event at 1599638592.324348, code 00, type 00, val 00
+event at 1599638592.341140, code 53, type 03, val 469
+event at 1599638592.341140, code 54, type 03, val 389
+event at 1599638592.341140, code 00, type 03, val 469
+event at 1599638592.341140, code 01, type 03, val 389
+event at 1599638592.341140, code 00, type 00, val 00
+event at 1599638592.357926, code 53, type 03, val 468
+event at 1599638592.357926, code 54, type 03, val 392
+event at 1599638592.357926, code 00, type 03, val 468
+event at 1599638592.357926, code 01, type 03, val 392
+touch
+1
+event at 1599638592.357926, code 00, type 00, val 00
+event at 1599638592.391467, code 53, type 03, val 467
+event at 1599638592.391467, code 54, type 03, val 397
+event at 1599638592.391467, code 00, type 03, val 467
+event at 1599638592.391467, code 01, type 03, val 397
+event at 1599638592.391467, code 00, type 00, val 00
+event at 1599638592.408249, code 54, type 03, val 399
+event at 1599638592.408249, code 01, type 03, val 399
+event at 1599638592.408249, code 00, type 00, val 00
+event at 1599638592.425041, code 53, type 03, val 466
+event at 1599638592.425041, code 54, type 03, val 400
+event at 1599638592.425041, code 00, type 03, val 466
+event at 1599638592.425041, code 01, type 03, val 400
+event at 1599638592.425041, code 00, type 00, val 00
+event at 1599638592.441832, code 54, type 03, val 402
+event at 1599638592.441832, code 01, type 03, val 402
+event at 1599638592.441832, code 00, type 00, val 00
+event at 1599638592.458613, code 53, type 03, val 465
+event at 1599638592.458613, code 54, type 03, val 403
+event at 1599638592.458613, code 00, type 03, val 465
+event at 1599638592.458613, code 01, type 03, val 403
+event at 1599638592.458613, code 00, type 00, val 00
+event at 1599638592.492164, code 53, type 03, val 461
+event at 1599638592.492164, code 54, type 03, val 406
+event at 1599638592.492164, code 00, type 03, val 461
+event at 1599638592.492164, code 01, type 03, val 406
+event at 1599638592.492164, code 00, type 00, val 00
+event at 1599638592.525686, code 57, type 03, val -1
+event at 1599638592.525686, code 330, type 01, val 00
+event at 1599638592.525686, code 00, type 00, val 00
+event at 1599638592.575950, code 57, type 03, val 23
+event at 1599638592.575950, code 53, type 03, val 435
+event at 1599638592.575950, code 54, type 03, val 347
+event at 1599638592.575950, code 330, type 01, val 01
+event at 1599638592.575950, code 00, type 03, val 435
+event at 1599638592.575950, code 01, type 03, val 347
+event at 1599638592.575950, code 00, type 00, val 00
+event at 1599638592.642934, code 54, type 03, val 345
+event at 1599638592.642934, code 01, type 03, val 345
+event at 1599638592.642934, code 00, type 00, val 00
+event at 1599638592.659713, code 53, type 03, val 434
+event at 1599638592.659713, code 54, type 03, val 344
+event at 1599638592.659713, code 00, type 03, val 434
+event at 1599638592.659713, code 01, type 03, val 344
+event at 1599638592.659713, code 00, type 00, val 00
+event at 1599638592.676528, code 53, type 03, val 431
+event at 1599638592.676528, code 54, type 03, val 338
+event at 1599638592.676528, code 00, type 03, val 431
+event at 1599638592.676528, code 01, type 03, val 338
+event at 1599638592.676528, code 00, type 00, val 00
+event at 1599638592.693324, code 53, type 03, val 429
+event at 1599638592.693324, code 54, type 03, val 335
+event at 1599638592.693324, code 00, type 03, val 429
+event at 1599638592.693324, code 01, type 03, val 335
+event at 1599638592.693324, code 00, type 00, val 00
+event at 1599638592.710108, code 53, type 03, val 426
+event at 1599638592.710108, code 54, type 03, val 325
+event at 1599638592.710108, code 00, type 03, val 426
+event at 1599638592.710108, code 01, type 03, val 325
+event at 1599638592.710108, code 00, type 00, val 00
+event at 1599638592.726898, code 53, type 03, val 424
+event at 1599638592.726898, code 54, type 03, val 319
+event at 1599638592.726898, code 00, type 03, val 424
+event at 1599638592.726898, code 01, type 03, val 319
+touch
+1
+event at 1599638592.726898, code 00, type 00, val 00
+event at 1599638592.743692, code 53, type 03, val 420
+event at 1599638592.743692, code 54, type 03, val 309
+event at 1599638592.743692, code 00, type 03, val 420
+event at 1599638592.743692, code 01, type 03, val 309
+event at 1599638592.743692, code 00, type 00, val 00
+event at 1599638592.760476, code 53, type 03, val 417
+event at 1599638592.760476, code 54, type 03, val 303
+event at 1599638592.760476, code 00, type 03, val 417
+event at 1599638592.760476, code 01, type 03, val 303
+event at 1599638592.760476, code 00, type 00, val 00
+event at 1599638592.777293, code 53, type 03, val 414
+event at 1599638592.777293, code 54, type 03, val 299
+event at 1599638592.777293, code 00, type 03, val 414
+event at 1599638592.777293, code 01, type 03, val 299
+event at 1599638592.777293, code 00, type 00, val 00
+event at 1599638592.827546, code 53, type 03, val 410
+event at 1599638592.827546, code 54, type 03, val 295
+event at 1599638592.827546, code 00, type 03, val 410
+event at 1599638592.827546, code 01, type 03, val 295
+event at 1599638592.827546, code 00, type 00, val 00
+event at 1599638592.844335, code 57, type 03, val -1
+event at 1599638592.844335, code 330, type 01, val 00
+event at 1599638592.844335, code 00, type 00, val 001
+2
+3
+4
+5
+6
+7
+touch
+1
+event at 1599638605.593069, code 57, type 03, val 24
+event at 1599638605.593069, code 53, type 03, val 740
+event at 1599638605.593069, code 54, type 03, val 262
+event at 1599638605.593069, code 330, type 01, val 01
+event at 1599638605.593069, code 00, type 03, val 740
+event at 1599638605.593069, code 01, type 03, val 262
+event at 1599638605.593069, code 00, type 00, val 00
+event at 1599638605.744005, code 57, type 03, val -1
+event at 1599638605.744005, code 330, type 01, val 00
+event at 1599638605.744005, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638608.555969, code 57, type 03, val 25
+event at 1599638608.555969, code 53, type 03, val 738
+event at 1599638608.555969, code 54, type 03, val 249
+event at 1599638608.555969, code 330, type 01, val 01
+event at 1599638608.555969, code 00, type 03, val 738
+event at 1599638608.555969, code 01, type 03, val 249
+event at 1599638608.555969, code 00, type 00, val 00
+event at 1599638608.673363, code 53, type 03, val 739
+event at 1599638608.673363, code 54, type 03, val 248
+event at 1599638608.673363, code 00, type 03, val 739
+event at 1599638608.673363, code 01, type 03, val 248
+event at 1599638608.673363, code 00, type 00, val 00
+event at 1599638608.707040, code 57, type 03, val -1
+event at 1599638608.707040, code 330, type 01, val 00
+event at 1599638608.707040, code 00, type 00, val 00
+event at 1599638609.410157, code 57, type 03, val 26
+event at 1599638609.410157, code 53, type 03, val 36
+event at 1599638609.410157, code 54, type 03, val 414
+event at 1599638609.410157, code 330, type 01, val 01
+event at 1599638609.410157, code 00, type 03, val 36
+event at 1599638609.410157, code 01, type 03, val 414
+event at 1599638609.410157, code 00, type 00, val 00
+event at 1599638609.527537, code 53, type 03, val 38
+event at 1599638609.527537, code 54, type 03, val 415
+event at 1599638609.527537, code 00, type 03, val 38
+event at 1599638609.527537, code 01, type 03, val 415
+event at 1599638609.527537, code 00, type 00, val 00
+event at 1599638609.544440, code 57, type 03, val -1
+event at 1599638609.544440, code 330, type 01, val 00
+event at 1599638609.544440, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638610.264240, code 57, type 03, val 27
+event at 1599638610.264240, code 53, type 03, val 475
+event at 1599638610.264240, code 54, type 03, val 302
+event at 1599638610.264240, code 330, type 01, val 01
+event at 1599638610.264240, code 00, type 03, val 475
+event at 1599638610.264240, code 01, type 03, val 302
+event at 1599638610.264240, code 00, type 00, val 00
+event at 1599638610.364900, code 53, type 03, val 476
+event at 1599638610.364900, code 00, type 03, val 476
+event at 1599638610.364900, code 00, type 00, val 00
+event at 1599638610.381909, code 57, type 03, val -1
+event at 1599638610.381909, code 330, type 01, val 00
+event at 1599638610.381909, code 00, type 00, val 00
+event at 1599638610.599784, code 57, type 03, val 28
+event at 1599638610.599784, code 53, type 03, val 711
+event at 1599638610.599784, code 54, type 03, val 389
+event at 1599638610.599784, code 330, type 01, val 01
+event at 1599638610.599784, code 00, type 03, val 711
+event at 1599638610.599784, code 01, type 03, val 389
+event at 1599638610.599784, code 00, type 00, val 00
+event at 1599638610.700512, code 53, type 03, val 710
+event at 1599638610.700512, code 00, type 03, val 710
+event at 1599638610.700512, code 00, type 00, val 00
+event at 1599638610.767697, code 53, type 03, val 709
+event at 1599638610.767697, code 00, type 03, val 709
+event at 1599638610.767697, code 00, type 00, val 00
+event at 1599638610.784789, code 57, type 03, val -1
+event at 1599638610.784789, code 330, type 01, val 00
+event at 1599638610.784789, code 00, type 00, val 00
+touch
+1
+event at 1599638611.571790, code 57, type 03, val 29
+event at 1599638611.571790, code 53, type 03, val 62
+event at 1599638611.571790, code 54, type 03, val 438
+event at 1599638611.571790, code 330, type 01, val 01
+event at 1599638611.571790, code 00, type 03, val 62
+event at 1599638611.571790, code 01, type 03, val 438
+event at 1599638611.571790, code 00, type 00, val 00
+event at 1599638611.655826, code 53, type 03, val 63
+event at 1599638611.655826, code 54, type 03, val 437
+event at 1599638611.655826, code 00, type 03, val 63
+event at 1599638611.655826, code 01, type 03, val 437
+event at 1599638611.655826, code 00, type 00, val 00
+event at 1599638611.706400, code 53, type 03, val 64
+event at 1599638611.706400, code 54, type 03, val 436
+event at 1599638611.706400, code 00, type 03, val 64
+event at 1599638611.706400, code 01, type 03, val 436
+event at 1599638611.706400, code 00, type 00, val 00
+event at 1599638611.723352, code 57, type 03, val -1
+event at 1599638611.723352, code 330, type 01, val 00
+event at 1599638611.723352, code 00, type 00, val 00
+event at 1599638612.259330, code 57, type 03, val 30
+event at 1599638612.259330, code 53, type 03, val 517
+event at 1599638612.259330, code 54, type 03, val 146
+event at 1599638612.259330, code 330, type 01, val 01
+event at 1599638612.259330, code 00, type 03, val 517
+event at 1599638612.259330, code 01, type 03, val 146
+event at 1599638612.259330, code 00, type 00, val 00
+event at 1599638612.360074, code 54, type 03, val 152
+event at 1599638612.360074, code 01, type 03, val 152
+event at 1599638612.360074, code 00, type 00, val 00
+event at 1599638612.393832, code 57, type 03, val -1
+event at 1599638612.393832, code 330, type 01, val 00
+event at 1599638612.393832, code 00, type 00, val 00
+touch
+1
+event at 1599638612.628368, code 57, type 03, val 31
+event at 1599638612.628368, code 53, type 03, val 715
+event at 1599638612.628368, code 54, type 03, val 408
+event at 1599638612.628368, code 330, type 01, val 01
+event at 1599638612.628368, code 00, type 03, val 715
+event at 1599638612.628368, code 01, type 03, val 408
+event at 1599638612.628368, code 00, type 00, val 00
+event at 1599638612.762722, code 53, type 03, val 714
+event at 1599638612.762722, code 54, type 03, val 407
+event at 1599638612.762722, code 00, type 03, val 714
+event at 1599638612.762722, code 01, type 03, val 407
+event at 1599638612.762722, code 00, type 00, val 00
+event at 1599638612.779699, code 57, type 03, val -1
+event at 1599638612.779699, code 330, type 01, val 00
+event at 1599638612.779699, code 00, type 00, val 00
+event at 1599638613.516583, code 57, type 03, val 32
+event at 1599638613.516583, code 53, type 03, val 744
+event at 1599638613.516583, code 54, type 03, val 277
+event at 1599638613.516583, code 330, type 01, val 01
+event at 1599638613.516583, code 00, type 03, val 744
+event at 1599638613.516583, code 01, type 03, val 277
+event at 1599638613.516583, code 00, type 00, val 00
+event at 1599638613.600676, code 53, type 03, val 743
+event at 1599638613.600676, code 00, type 03, val 743
+event at 1599638613.600676, code 00, type 00, val 00
+touch
+1
+event at 1599638613.634475, code 53, type 03, val 739
+event at 1599638613.634475, code 54, type 03, val 276
+event at 1599638613.634475, code 00, type 03, val 739
+event at 1599638613.634475, code 01, type 03, val 276
+event at 1599638613.634475, code 00, type 00, val 00
+event at 1599638613.668235, code 57, type 03, val -1
+event at 1599638613.668235, code 330, type 01, val 00
+event at 1599638613.668235, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638616.622366, code 57, type 03, val 33
+event at 1599638616.622366, code 53, type 03, val 85
+event at 1599638616.622366, code 54, type 03, val 417
+event at 1599638616.622366, code 330, type 01, val 01
+event at 1599638616.622366, code 00, type 03, val 85
+event at 1599638616.622366, code 01, type 03, val 417
+event at 1599638616.622366, code 00, type 00, val 00
+event at 1599638616.739828, code 54, type 03, val 418
+event at 1599638616.739828, code 01, type 03, val 418
+event at 1599638616.739828, code 00, type 00, val 00
+event at 1599638616.756786, code 57, type 03, val -1
+event at 1599638616.756786, code 330, type 01, val 00
+event at 1599638616.756786, code 00, type 00, val 00
+event at 1599638617.359637, code 57, type 03, val 34
+event at 1599638617.359637, code 53, type 03, val 464
+event at 1599638617.359637, code 54, type 03, val 255
+event at 1599638617.359637, code 330, type 01, val 01
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+touch
+1
+event at 1599638605.593069, code 57, type 03, val 24
+event at 1599638605.593069, code 53, type 03, val 740
+event at 1599638605.593069, code 54, type 03, val 262
+event at 1599638605.593069, code 330, type 01, val 01
+event at 1599638605.593069, code 00, type 03, val 740
+event at 1599638605.593069, code 01, type 03, val 262
+event at 1599638605.593069, code 00, type 00, val 00
+event at 1599638605.744005, code 57, type 03, val -1
+event at 1599638605.744005, code 330, type 01, val 00
+event at 1599638605.744005, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638608.555969, code 57, type 03, val 25
+event at 1599638608.555969, code 53, type 03, val 738
+event at 1599638608.555969, code 54, type 03, val 249
+event at 1599638608.555969, code 330, type 01, val 01
+event at 1599638608.555969, code 00, type 03, val 738
+event at 1599638608.555969, code 01, type 03, val 249
+event at 1599638608.555969, code 00, type 00, val 00
+event at 1599638608.673363, code 53, type 03, val 739
+event at 1599638608.673363, code 54, type 03, val 248
+event at 1599638608.673363, code 00, type 03, val 739
+event at 1599638608.673363, code 01, type 03, val 248
+event at 1599638608.673363, code 00, type 00, val 00
+event at 1599638608.707040, code 57, type 03, val -1
+event at 1599638608.707040, code 330, type 01, val 00
+event at 1599638608.707040, code 00, type 00, val 00
+event at 1599638609.410157, code 57, type 03, val 26
+event at 1599638609.410157, code 53, type 03, val 36
+event at 1599638609.410157, code 54, type 03, val 414
+event at 1599638609.410157, code 330, type 01, val 01
+event at 1599638609.410157, code 00, type 03, val 36
+event at 1599638609.410157, code 01, type 03, val 414
+event at 1599638609.410157, code 00, type 00, val 00
+event at 1599638609.527537, code 53, type 03, val 38
+event at 1599638609.527537, code 54, type 03, val 415
+event at 1599638609.527537, code 00, type 03, val 38
+event at 1599638609.527537, code 01, type 03, val 415
+event at 1599638609.527537, code 00, type 00, val 00
+event at 1599638609.544440, code 57, type 03, val -1
+event at 1599638609.544440, code 330, type 01, val 00
+event at 1599638609.544440, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638610.264240, code 57, type 03, val 27
+event at 1599638610.264240, code 53, type 03, val 475
+event at 1599638610.264240, code 54, type 03, val 302
+event at 1599638610.264240, code 330, type 01, val 01
+event at 1599638610.264240, code 00, type 03, val 475
+event at 1599638610.264240, code 01, type 03, val 302
+event at 1599638610.264240, code 00, type 00, val 00
+event at 1599638610.364900, code 53, type 03, val 476
+event at 1599638610.364900, code 00, type 03, val 476
+event at 1599638610.364900, code 00, type 00, val 00
+event at 1599638610.381909, code 57, type 03, val -1
+event at 1599638610.381909, code 330, type 01, val 00
+event at 1599638610.381909, code 00, type 00, val 00
+event at 1599638610.599784, code 57, type 03, val 28
+event at 1599638610.599784, code 53, type 03, val 711
+event at 1599638610.599784, code 54, type 03, val 389
+event at 1599638610.599784, code 330, type 01, val 01
+event at 1599638610.599784, code 00, type 03, val 711
+event at 1599638610.599784, code 01, type 03, val 389
+event at 1599638610.599784, code 00, type 00, val 00
+event at 1599638610.700512, code 53, type 03, val 710
+event at 1599638610.700512, code 00, type 03, val 710
+event at 1599638610.700512, code 00, type 00, val 00
+event at 1599638610.767697, code 53, type 03, val 709
+event at 1599638610.767697, code 00, type 03, val 709
+event at 1599638610.767697, code 00, type 00, val 00
+event at 1599638610.784789, code 57, type 03, val -1
+event at 1599638610.784789, code 330, type 01, val 00
+event at 1599638610.784789, code 00, type 00, val 00
+touch
+1
+event at 1599638611.571790, code 57, type 03, val 29
+event at 1599638611.571790, code 53, type 03, val 62
+event at 1599638611.571790, code 54, type 03, val 438
+event at 1599638611.571790, code 330, type 01, val 01
+event at 1599638611.571790, code 00, type 03, val 62
+event at 1599638611.571790, code 01, type 03, val 438
+event at 1599638611.571790, code 00, type 00, val 00
+event at 1599638611.655826, code 53, type 03, val 63
+event at 1599638611.655826, code 54, type 03, val 437
+event at 1599638611.655826, code 00, type 03, val 63
+event at 1599638611.655826, code 01, type 03, val 437
+event at 1599638611.655826, code 00, type 00, val 00
+event at 1599638611.706400, code 53, type 03, val 64
+event at 1599638611.706400, code 54, type 03, val 436
+event at 1599638611.706400, code 00, type 03, val 64
+event at 1599638611.706400, code 01, type 03, val 436
+event at 1599638611.706400, code 00, type 00, val 00
+event at 1599638611.723352, code 57, type 03, val -1
+event at 1599638611.723352, code 330, type 01, val 00
+event at 1599638611.723352, code 00, type 00, val 00
+event at 1599638612.259330, code 57, type 03, val 30
+event at 1599638612.259330, code 53, type 03, val 517
+event at 1599638612.259330, code 54, type 03, val 146
+event at 1599638612.259330, code 330, type 01, val 01
+event at 1599638612.259330, code 00, type 03, val 517
+event at 1599638612.259330, code 01, type 03, val 146
+event at 1599638612.259330, code 00, type 00, val 00
+event at 1599638612.360074, code 54, type 03, val 152
+event at 1599638612.360074, code 01, type 03, val 152
+event at 1599638612.360074, code 00, type 00, val 00
+event at 1599638612.393832, code 57, type 03, val -1
+event at 1599638612.393832, code 330, type 01, val 00
+event at 1599638612.393832, code 00, type 00, val 00
+touch
+1
+event at 1599638612.628368, code 57, type 03, val 31
+event at 1599638612.628368, code 53, type 03, val 715
+event at 1599638612.628368, code 54, type 03, val 408
+event at 1599638612.628368, code 330, type 01, val 01
+event at 1599638612.628368, code 00, type 03, val 715
+event at 1599638612.628368, code 01, type 03, val 408
+event at 1599638612.628368, code 00, type 00, val 00
+event at 1599638612.762722, code 53, type 03, val 714
+event at 1599638612.762722, code 54, type 03, val 407
+event at 1599638612.762722, code 00, type 03, val 714
+event at 1599638612.762722, code 01, type 03, val 407
+event at 1599638612.762722, code 00, type 00, val 00
+event at 1599638612.779699, code 57, type 03, val -1
+event at 1599638612.779699, code 330, type 01, val 00
+event at 1599638612.779699, code 00, type 00, val 00
+event at 1599638613.516583, code 57, type 03, val 32
+event at 1599638613.516583, code 53, type 03, val 744
+event at 1599638613.516583, code 54, type 03, val 277
+event at 1599638613.516583, code 330, type 01, val 01
+event at 1599638613.516583, code 00, type 03, val 744
+event at 1599638613.516583, code 01, type 03, val 277
+event at 1599638613.516583, code 00, type 00, val 00
+event at 1599638613.600676, code 53, type 03, val 743
+event at 1599638613.600676, code 00, type 03, val 743
+event at 1599638613.600676, code 00, type 00, val 00
+touch
+1
+event at 1599638613.634475, code 53, type 03, val 739
+event at 1599638613.634475, code 54, type 03, val 276
+event at 1599638613.634475, code 00, type 03, val 739
+event at 1599638613.634475, code 01, type 03, val 276
+event at 1599638613.634475, code 00, type 00, val 00
+event at 1599638613.668235, code 57, type 03, val -1
+event at 1599638613.668235, code 330, type 01, val 00
+event at 1599638613.668235, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638616.622366, code 57, type 03, val 33
+event at 1599638616.622366, code 53, type 03, val 85
+event at 1599638616.622366, code 54, type 03, val 417
+event at 1599638616.622366, code 330, type 01, val 01
+event at 1599638616.622366, code 00, type 03, val 85
+event at 1599638616.622366, code 01, type 03, val 417
+event at 1599638616.622366, code 00, type 00, val 00
+event at 1599638616.739828, code 54, type 03, val 418
+event at 1599638616.739828, code 01, type 03, val 418
+event at 1599638616.739828, code 00, type 00, val 00
+event at 1599638616.756786, code 57, type 03, val -1
+event at 1599638616.756786, code 330, type 01, val 00
+event at 1599638616.756786, code 00, type 00, val 00
+event at 1599638617.359637, code 57, type 03, val 34
+event at 1599638617.359637, code 53, type 03, val 464
+event at 1599638617.359637, code 54, type 03, val 255
+event at 1599638617.359637, code 330, type 01, val 01
+event at 1599638617.359637, code 00, type 03, val 464
+event at 1599638617.359637, code 01, type 03, val 255
+event at 1599638617.359637, code 00, type 00, val 00
+event at 1599638617.477076, code 54, type 03, val 256
+event at 1599638617.477076, code 01, type 03, val 256
+event at 1599638617.477076, code 00, type 00, val 00
+event at 1599638617.493977, code 57, type 03, val -1
+event at 1599638617.493977, code 330, type 01, val 00
+event at 1599638617.493977, code 00, type 00, val 00
+touch
+1
+event at 1599638617.678243, code 57, type 03, val 35
+event at 1599638617.678243, code 53, type 03, val 719
+event at 1599638617.678243, code 54, type 03, val 394
+event at 1599638617.678243, code 330, type 01, val 01
+event at 1599638617.678243, code 00, type 03, val 719
+event at 1599638617.678243, code 01, type 03, val 394
+event at 1599638617.678243, code 00, type 00, val 00
+event at 1599638617.829163, code 53, type 03, val 718
+event at 1599638617.829163, code 54, type 03, val 393
+event at 1599638617.829163, code 00, type 03, val 718
+event at 1599638617.829163, code 01, type 03, val 393
+event at 1599638617.829163, code 00, type 00, val 00
+event at 1599638617.846032, code 57, type 03, val -1
+event at 1599638617.846032, code 330, type 01, val 00
+event at 1599638617.846032, code 00, type 00, val 00
+event at 1599638618.582880, code 57, type 03, val 36
+event at 1599638618.582880, code 53, type 03, val 44
+event at 1599638618.582880, code 54, type 03, val 412
+event at 1599638618.582880, code 330, type 01, val 01
+event at 1599638618.582880, code 00, type 03, val 44
+event at 1599638618.582880, code 01, type 03, val 412
+event at 1599638618.582880, code 00, type 00, val 00
+touch
+1
+event at 1599638618.700365, code 53, type 03, val 45
+event at 1599638618.700365, code 54, type 03, val 415
+event at 1599638618.700365, code 00, type 03, val 45
+event at 1599638618.700365, code 01, type 03, val 415
+event at 1599638618.700365, code 00, type 00, val 00
+event at 1599638618.717351, code 57, type 03, val -1
+event at 1599638618.717351, code 330, type 01, val 00
+event at 1599638618.717351, code 00, type 00, val 00
+event at 1599638619.202861, code 57, type 03, val 37
+event at 1599638619.202861, code 53, type 03, val 451
+event at 1599638619.202861, code 54, type 03, val 293
+event at 1599638619.202861, code 330, type 01, val 01
+event at 1599638619.202861, code 00, type 03, val 451
+event at 1599638619.202861, code 01, type 03, val 293
+event at 1599638619.202861, code 00, type 00, val 00
+event at 1599638619.270226, code 53, type 03, val 450
+event at 1599638619.270226, code 00, type 03, val 450
+event at 1599638619.270226, code 00, type 00, val 00
+event at 1599638619.337466, code 53, type 03, val 448
+event at 1599638619.337466, code 54, type 03, val 295
+event at 1599638619.337466, code 00, type 03, val 448
+event at 1599638619.337466, code 01, type 03, val 295
+event at 1599638619.337466, code 00, type 00, val 00
+event at 1599638619.354508, code 57, type 03, val -1
+event at 1599638619.354508, code 330, type 01, val 00
+event at 1599638619.354508, code 00, type 00, val 00
+event at 1599638619.672493, code 57, type 03, val 38
+event at 1599638619.672493, code 53, type 03, val 686
+event at 1599638619.672493, code 54, type 03, val 379
+event at 1599638619.672493, code 330, type 01, val 01
+event at 1599638619.672493, code 00, type 03, val 686
+event at 1599638619.672493, code 01, type 03, val 379
+event at 1599638619.672493, code 00, type 00, val 00
+touch
+1
+event at 1599638619.773128, code 54, type 03, val 380
+event at 1599638619.773128, code 01, type 03, val 380
+event at 1599638619.773128, code 00, type 00, val 00
+event at 1599638619.790067, code 57, type 03, val -1
+event at 1599638619.790067, code 330, type 01, val 00
+event at 1599638619.790067, code 00, type 00, val 00
+event at 1599638620.677081, code 57, type 03, val 39
+event at 1599638620.677081, code 53, type 03, val 91
+event at 1599638620.677081, code 54, type 03, val 426
+event at 1599638620.677081, code 330, type 01, val 01
+event at 1599638620.677081, code 00, type 03, val 91
+event at 1599638620.677081, code 01, type 03, val 426
+event at 1599638620.677081, code 00, type 00, val 00
+touch
+1
+event at 1599638620.794425, code 57, type 03, val -1
+event at 1599638620.794425, code 330, type 01, val 00
+event at 1599638620.794425, code 00, type 00, val 00
+event at 1599638621.413972, code 57, type 03, val 40
+event at 1599638621.413972, code 53, type 03, val 530
+event at 1599638621.413972, code 54, type 03, val 138
+event at 1599638621.413972, code 330, type 01, val 01
+event at 1599638621.413972, code 00, type 03, val 530
+event at 1599638621.413972, code 01, type 03, val 138
+event at 1599638621.413972, code 00, type 00, val 00
+event at 1599638621.497838, code 53, type 03, val 529
+event at 1599638621.497838, code 54, type 03, val 140
+event at 1599638621.497838, code 00, type 03, val 529
+event at 1599638621.497838, code 01, type 03, val 140
+event at 1599638621.497838, code 00, type 00, val 00
+event at 1599638621.514697, code 57, type 03, val -1
+event at 1599638621.514697, code 330, type 01, val 00
+event at 1599638621.514697, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638622.100617, code 57, type 03, val 41
+event at 1599638622.100617, code 53, type 03, val 363
+event at 1599638622.100617, code 54, type 03, val 221
+event at 1599638622.100617, code 330, type 01, val 01
+event at 1599638622.100617, code 00, type 03, val 363
+event at 1599638622.100617, code 01, type 03, val 221
+event at 1599638622.100617, code 00, type 00, val 00
+event at 1599638622.167871, code 57, type 03, val -1
+event at 1599638622.167871, code 330, type 01, val 00
+event at 1599638622.167871, code 00, type 00, val 00
+event at 1599638622.452487, code 57, type 03, val 42
+event at 1599638622.452487, code 53, type 03, val 749
+event at 1599638622.452487, code 54, type 03, val 389
+event at 1599638622.452487, code 330, type 01, val 01
+event at 1599638622.452487, code 00, type 03, val 749
+event at 1599638622.452487, code 01, type 03, val 389
+event at 1599638622.452487, code 00, type 00, val 00
+event at 1599638622.502870, code 53, type 03, val 747
+event at 1599638622.502870, code 54, type 03, val 387
+event at 1599638622.502870, code 00, type 03, val 747
+event at 1599638622.502870, code 01, type 03, val 387
+event at 1599638622.502870, code 00, type 00, val 00
+event at 1599638622.569988, code 53, type 03, val 739
+event at 1599638622.569988, code 54, type 03, val 386
+event at 1599638622.569988, code 00, type 03, val 739
+event at 1599638622.569988, code 01, type 03, val 386
+event at 1599638622.569988, code 00, type 00, val 00
+event at 1599638622.586858, code 57, type 03, val -1
+event at 1599638622.586858, code 330, type 01, val 00
+event at 1599638622.586858, code 00, type 00, val 00
+touch
+1
+event at 1599638623.724834, code 57, type 03, val 43
+event at 1599638623.724834, code 53, type 03, val 738
+event at 1599638623.724834, code 54, type 03, val 282
+event at 1599638623.724834, code 330, type 01, val 01
+event at 1599638623.724834, code 00, type 03, val 738
+event at 1599638623.724834, code 01, type 03, val 282
+event at 1599638623.724834, code 00, type 00, val 00
+event at 1599638623.859060, code 53, type 03, val 739
+event at 1599638623.859060, code 54, type 03, val 284
+event at 1599638623.859060, code 00, type 03, val 739
+event at 1599638623.859060, code 01, type 03, val 284
+event at 1599638623.859060, code 00, type 00, val 00
+event at 1599638623.892809, code 57, type 03, val -1
+event at 1599638623.892809, code 330, type 01, val 00
+event at 1599638623.892809, code 00, type 00, val 00
+event at 1599638624.696408, code 57, type 03, val 44
+event at 1599638624.696408, code 53, type 03, val 66
+event at 1599638624.696408, code 54, type 03, val 436
+event at 1599638624.696408, code 330, type 01, val 01
+event at 1599638624.696408, code 00, type 03, val 66
+event at 1599638624.696408, code 01, type 03, val 436
+event at 1599638624.696408, code 00, type 00, val 00
+touch
+1
+event at 1599638624.797101, code 53, type 03, val 67
+event at 1599638624.797101, code 00, type 03, val 67
+event at 1599638624.797101, code 00, type 00, val 00
+event at 1599638624.830827, code 53, type 03, val 70
+event at 1599638624.830827, code 54, type 03, val 433
+event at 1599638617.359637, code 00, type 03, val 464
+event at 1599638617.359637, code 01, type 03, val 255
+event at 1599638617.359637, code 00, type 00, val 00
+event at 1599638617.477076, code 54, type 03, val 256
+event at 1599638617.477076, code 01, type 03, val 256
+event at 1599638617.477076, code 00, type 00, val 00
+event at 1599638617.493977, code 57, type 03, val -1
+event at 1599638617.493977, code 330, type 01, val 00
+event at 1599638617.493977, code 00, type 00, val 00
+touch
+1
+event at 1599638617.678243, code 57, type 03, val 35
+event at 1599638617.678243, code 53, type 03, val 719
+event at 1599638617.678243, code 54, type 03, val 394
+event at 1599638617.678243, code 330, type 01, val 01
+event at 1599638617.678243, code 00, type 03, val 719
+event at 1599638617.678243, code 01, type 03, val 394
+event at 1599638617.678243, code 00, type 00, val 00
+event at 1599638617.829163, code 53, type 03, val 718
+event at 1599638617.829163, code 54, type 03, val 393
+event at 1599638617.829163, code 00, type 03, val 718
+event at 1599638617.829163, code 01, type 03, val 393
+event at 1599638617.829163, code 00, type 00, val 00
+event at 1599638617.846032, code 57, type 03, val -1
+event at 1599638617.846032, code 330, type 01, val 00
+event at 1599638617.846032, code 00, type 00, val 00
+event at 1599638618.582880, code 57, type 03, val 36
+event at 1599638618.582880, code 53, type 03, val 44
+event at 1599638618.582880, code 54, type 03, val 412
+event at 1599638618.582880, code 330, type 01, val 01
+event at 1599638618.582880, code 00, type 03, val 44
+event at 1599638618.582880, code 01, type 03, val 412
+event at 1599638618.582880, code 00, type 00, val 00
+touch
+1
+event at 1599638618.700365, code 53, type 03, val 45
+event at 1599638618.700365, code 54, type 03, val 415
+event at 1599638618.700365, code 00, type 03, val 45
+event at 1599638618.700365, code 01, type 03, val 415
+event at 1599638618.700365, code 00, type 00, val 00
+event at 1599638618.717351, code 57, type 03, val -1
+event at 1599638618.717351, code 330, type 01, val 00
+event at 1599638618.717351, code 00, type 00, val 00
+event at 1599638619.202861, code 57, type 03, val 37
+event at 1599638619.202861, code 53, type 03, val 451
+event at 1599638619.202861, code 54, type 03, val 293
+event at 1599638619.202861, code 330, type 01, val 01
+event at 1599638619.202861, code 00, type 03, val 451
+event at 1599638619.202861, code 01, type 03, val 293
+event at 1599638619.202861, code 00, type 00, val 00
+event at 1599638619.270226, code 53, type 03, val 450
+event at 1599638619.270226, code 00, type 03, val 450
+event at 1599638619.270226, code 00, type 00, val 00
+event at 1599638619.337466, code 53, type 03, val 448
+event at 1599638619.337466, code 54, type 03, val 295
+event at 1599638619.337466, code 00, type 03, val 448
+event at 1599638619.337466, code 01, type 03, val 295
+event at 1599638619.337466, code 00, type 00, val 00
+event at 1599638619.354508, code 57, type 03, val -1
+event at 1599638619.354508, code 330, type 01, val 00
+event at 1599638619.354508, code 00, type 00, val 00
+event at 1599638619.672493, code 57, type 03, val 38
+event at 1599638619.672493, code 53, type 03, val 686
+event at 1599638619.672493, code 54, type 03, val 379
+event at 1599638619.672493, code 330, type 01, val 01
+event at 1599638619.672493, code 00, type 03, val 686
+event at 1599638619.672493, code 01, type 03, val 379
+event at 1599638619.672493, code 00, type 00, val 00
+touch
+1
+event at 1599638619.773128, code 54, type 03, val 380
+event at 1599638619.773128, code 01, type 03, val 380
+event at 1599638619.773128, code 00, type 00, val 00
+event at 1599638619.790067, code 57, type 03, val -1
+event at 1599638619.790067, code 330, type 01, val 00
+event at 1599638619.790067, code 00, type 00, val 00
+event at 1599638620.677081, code 57, type 03, val 39
+event at 1599638620.677081, code 53, type 03, val 91
+event at 1599638620.677081, code 54, type 03, val 426
+event at 1599638620.677081, code 330, type 01, val 01
+event at 1599638620.677081, code 00, type 03, val 91
+event at 1599638620.677081, code 01, type 03, val 426
+event at 1599638620.677081, code 00, type 00, val 00
+touch
+1
+event at 1599638620.794425, code 57, type 03, val -1
+event at 1599638620.794425, code 330, type 01, val 00
+event at 1599638620.794425, code 00, type 00, val 00
+event at 1599638621.413972, code 57, type 03, val 40
+event at 1599638621.413972, code 53, type 03, val 530
+event at 1599638621.413972, code 54, type 03, val 138
+event at 1599638621.413972, code 330, type 01, val 01
+event at 1599638621.413972, code 00, type 03, val 530
+event at 1599638621.413972, code 01, type 03, val 138
+event at 1599638621.413972, code 00, type 00, val 00
+event at 1599638621.497838, code 53, type 03, val 529
+event at 1599638621.497838, code 54, type 03, val 140
+event at 1599638621.497838, code 00, type 03, val 529
+event at 1599638621.497838, code 01, type 03, val 140
+event at 1599638621.497838, code 00, type 00, val 00
+event at 1599638621.514697, code 57, type 03, val -1
+event at 1599638621.514697, code 330, type 01, val 00
+event at 1599638621.514697, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638622.100617, code 57, type 03, val 41
+event at 1599638622.100617, code 53, type 03, val 363
+event at 1599638622.100617, code 54, type 03, val 221
+event at 1599638622.100617, code 330, type 01, val 01
+event at 1599638622.100617, code 00, type 03, val 363
+event at 1599638622.100617, code 01, type 03, val 221
+event at 1599638622.100617, code 00, type 00, val 00
+event at 1599638622.167871, code 57, type 03, val -1
+event at 1599638622.167871, code 330, type 01, val 00
+event at 1599638622.167871, code 00, type 00, val 00
+event at 1599638622.452487, code 57, type 03, val 42
+event at 1599638622.452487, code 53, type 03, val 749
+event at 1599638622.452487, code 54, type 03, val 389
+event at 1599638622.452487, code 330, type 01, val 01
+event at 1599638622.452487, code 00, type 03, val 749
+event at 1599638622.452487, code 01, type 03, val 389
+event at 1599638622.452487, code 00, type 00, val 00
+event at 1599638622.502870, code 53, type 03, val 747
+event at 1599638622.502870, code 54, type 03, val 387
+event at 1599638622.502870, code 00, type 03, val 747
+event at 1599638622.502870, code 01, type 03, val 387
+event at 1599638622.502870, code 00, type 00, val 00
+event at 1599638622.569988, code 53, type 03, val 739
+event at 1599638622.569988, code 54, type 03, val 386
+event at 1599638622.569988, code 00, type 03, val 739
+event at 1599638622.569988, code 01, type 03, val 386
+event at 1599638622.569988, code 00, type 00, val 00
+event at 1599638622.586858, code 57, type 03, val -1
+event at 1599638622.586858, code 330, type 01, val 00
+event at 1599638622.586858, code 00, type 00, val 00
+touch
+1
+event at 1599638623.724834, code 57, type 03, val 43
+event at 1599638623.724834, code 53, type 03, val 738
+event at 1599638623.724834, code 54, type 03, val 282
+event at 1599638623.724834, code 330, type 01, val 01
+event at 1599638623.724834, code 00, type 03, val 738
+event at 1599638623.724834, code 01, type 03, val 282
+event at 1599638623.724834, code 00, type 00, val 00
+event at 1599638623.859060, code 53, type 03, val 739
+event at 1599638623.859060, code 54, type 03, val 284
+event at 1599638623.859060, code 00, type 03, val 739
+event at 1599638623.859060, code 01, type 03, val 284
+event at 1599638623.859060, code 00, type 00, val 00
+event at 1599638623.892809, code 57, type 03, val -1
+event at 1599638623.892809, code 330, type 01, val 00
+event at 1599638623.892809, code 00, type 00, val 00
+event at 1599638624.696408, code 57, type 03, val 44
+event at 1599638624.696408, code 53, type 03, val 66
+event at 1599638624.696408, code 54, type 03, val 436
+event at 1599638624.696408, code 330, type 01, val 01
+event at 1599638624.696408, code 00, type 03, val 66
+event at 1599638624.696408, code 01, type 03, val 436
+event at 1599638624.696408, code 00, type 00, val 00
+touch
+1
+event at 1599638624.797101, code 53, type 03, val 67
+event at 1599638624.797101, code 00, type 03, val 67
+event at 1599638624.797101, code 00, type 00, val 00
+event at 1599638624.830827, code 53, type 03, val 70
+event at 1599638624.830827, code 54, type 03, val 433
+event at 1599638624.830827, code 00, type 03, val 70
+event at 1599638624.830827, code 01, type 03, val 433
+event at 1599638624.830827, code 00, type 00, val 00
+event at 1599638624.864512, code 57, type 03, val -1
+event at 1599638624.864512, code 330, type 01, val 00
+event at 1599638624.864512, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638626.387374, code 57, type 03, val 45
+event at 1599638626.387374, code 53, type 03, val 531
+event at 1599638626.387374, code 54, type 03, val 225
+event at 1599638626.387374, code 330, type 01, val 01
+event at 1599638626.387374, code 00, type 03, val 531
+event at 1599638626.387374, code 01, type 03, val 225
+event at 1599638626.387374, code 00, type 00, val 00
+event at 1599638626.538289, code 53, type 03, val 530
+event at 1599638626.538289, code 00, type 03, val 530
+event at 1599638626.538289, code 00, type 00, val 00
+event at 1599638626.571915, code 57, type 03, val -1
+event at 1599638626.571915, code 330, type 01, val 00
+event at 1599638626.571915, code 00, type 00, val 00
+event at 1599638626.973687, code 57, type 03, val 46
+event at 1599638626.973687, code 53, type 03, val 552
+event at 1599638626.973687, code 54, type 03, val 232
+event at 1599638626.973687, code 330, type 01, val 01
+event at 1599638626.973687, code 00, type 03, val 552
+event at 1599638626.973687, code 01, type 03, val 232
+event at 1599638626.973687, code 00, type 00, val 00
+event at 1599638627.107847, code 54, type 03, val 236
+event at 1599638627.107847, code 01, type 03, val 236
+event at 1599638627.107847, code 00, type 00, val 00
+event at 1599638627.124777, code 57, type 03, val -1
+event at 1599638627.124777, code 330, type 01, val 00
+event at 1599638627.124777, code 00, type 00, val 00
+event at 1599638627.242074, code 57, type 03, val 47
+event at 1599638627.242074, code 53, type 03, val 663
+event at 1599638627.242074, code 54, type 03, val 365
+event at 1599638627.242074, code 330, type 01, val 01
+event at 1599638627.242074, code 00, type 03, val 663
+event at 1599638627.242074, code 01, type 03, val 365
+event at 1599638627.242074, code 00, type 00, val 00
+event at 1599638627.259002, code 53, type 03, val 664
+event at 1599638627.259002, code 00, type 03, val 664
+event at 1599638627.259002, code 00, type 00, val 00
+event at 1599638627.275957, code 53, type 03, val 667
+event at 1599638627.275957, code 54, type 03, val 366
+event at 1599638627.275957, code 00, type 03, val 667
+event at 1599638627.275957, code 01, type 03, val 366
+event at 1599638627.275957, code 00, type 00, val 00
+event at 1599638627.309628, code 53, type 03, val 677
+event at 1599638627.309628, code 54, type 03, val 370
+event at 1599638627.309628, code 00, type 03, val 677
+event at 1599638627.309628, code 01, type 03, val 370
+event at 1599638627.309628, code 00, type 00, val 00
+event at 1599638627.326506, code 53, type 03, val 684
+event at 1599638627.326506, code 54, type 03, val 372
+event at 1599638627.326506, code 00, type 03, val 684
+event at 1599638627.326506, code 01, type 03, val 372
+event at 1599638627.326506, code 00, type 00, val 00
+event at 1599638627.343413, code 53, type 03, val 695
+event at 1599638627.343413, code 54, type 03, val 376
+event at 1599638627.343413, code 00, type 03, val 695
+event at 1599638627.343413, code 01, type 03, val 376
+event at 1599638627.343413, code 00, type 00, val 00
+event at 1599638627.360292, code 53, type 03, val 698
+event at 1599638627.360292, code 54, type 03, val 378
+event at 1599638627.360292, code 00, type 03, val 698
+event at 1599638627.360292, code 01, type 03, val 378
+event at 1599638627.360292, code 00, type 00, val 00
+event at 1599638627.377202, code 53, type 03, val 701
+event at 1599638627.377202, code 54, type 03, val 379
+event at 1599638627.377202, code 00, type 03, val 701
+touch
+1
+event at 1599638627.377202, code 01, type 03, val 379
+event at 1599638627.377202, code 00, type 00, val 00
+event at 1599638627.427577, code 54, type 03, val 380
+event at 1599638627.427577, code 01, type 03, val 380
+event at 1599638627.427577, code 00, type 00, val 00
+event at 1599638627.444451, code 57, type 03, val -1
+event at 1599638627.444451, code 330, type 01, val 00
+event at 1599638627.444451, code 00, type 00, val 00
+touch
+1
+event at 1599638628.549187, code 57, type 03, val 48
+event at 1599638628.549187, code 53, type 03, val 748
+event at 1599638628.549187, code 54, type 03, val 250
+event at 1599638628.549187, code 330, type 01, val 01
+event at 1599638628.549187, code 00, type 03, val 748
+event at 1599638628.549187, code 01, type 03, val 250
+event at 1599638628.549187, code 00, type 00, val 00
+event at 1599638628.666600, code 54, type 03, val 251
+event at 1599638628.666600, code 01, type 03, val 251
+event at 1599638628.666600, code 00, type 00, val 00
+event at 1599638628.700236, code 53, type 03, val 747
+event at 1599638628.700236, code 54, type 03, val 255
+event at 1599638628.700236, code 00, type 03, val 747
+event at 1599638628.700236, code 01, type 03, val 255
+event at 1599638628.700236, code 00, type 00, val 00
+event at 1599638628.717122, code 57, type 03, val -1
+event at 1599638628.717122, code 330, type 01, val 00
+event at 1599638628.717122, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+touch
+1
+event at 1599638638.823842, code 57, type 03, val 49
+event at 1599638638.823842, code 53, type 03, val 66
+event at 1599638638.823842, code 54, type 03, val 428
+event at 1599638638.823842, code 330, type 01, val 01
+event at 1599638638.823842, code 00, type 03, val 66
+event at 1599638638.823842, code 01, type 03, val 428
+event at 1599638638.823842, code 00, type 00, val 00
+event at 1599638638.891045, code 57, type 03, val -1
+event at 1599638638.891045, code 330, type 01, val 00
+event at 1599638638.891045, code 00, type 00, val 00
+touch
+1
+event at 1599638640.313478, code 57, type 03, val 50
+event at 1599638640.313478, code 53, type 03, val 729
+event at 1599638640.313478, code 54, type 03, val 432
+event at 1599638640.313478, code 330, type 01, val 01
+event at 1599638640.313478, code 00, type 03, val 729
+event at 1599638640.313478, code 01, type 03, val 432
+event at 1599638640.313478, code 00, type 00, val 00
+event at 1599638640.397527, code 53, type 03, val 728
+event at 1599638640.397527, code 54, type 03, val 431
+event at 1599638640.397527, code 00, type 03, val 728
+event at 1599638640.397527, code 01, type 03, val 431
+event at 1599638640.397527, code 00, type 00, val 00
+event at 1599638640.414513, code 57, type 03, val -1
+event at 1599638640.414513, code 330, type 01, val 00
+event at 1599638640.414513, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+touch
+1
+event at 1599638651.608853, code 57, type 03, val 51
+event at 1599638651.608853, code 53, type 03, val 570
+event at 1599638651.608853, code 54, type 03, val 412
+event at 1599638651.608853, code 330, type 01, val 01
+event at 1599638651.608853, code 00, type 03, val 570
+event at 1599638651.608853, code 01, type 03, val 412
+event at 1599638651.608853, code 00, type 00, val 00
+event at 1599638651.692991, code 54, type 03, val 413
+event at 1599638651.692991, code 01, type 03, val 413
+event at 1599638651.692991, code 00, type 00, val 00
+event at 1599638651.709884, code 57, type 03, val -1
+event at 1599638651.709884, code 330, type 01, val 00
+event at 1599638651.709884, code 00, type 00, val 00
+event at 1599638652.580247, code 57, type 03, val 52
+event at 1599638652.580247, code 53, type 03, val 700
+event at 1599638652.580247, code 54, type 03, val 414
+event at 1599638652.580247, code 330, type 01, val 01
+event at 1599638652.580247, code 00, type 03, val 700
+event at 1599638652.580247, code 01, type 03, val 414
+event at 1599638652.580247, code 00, type 00, val 00
+touch
+1
+event at 1599638652.664087, code 54, type 03, val 416
+event at 1599638652.664087, code 01, type 03, val 416
+event at 1599638652.664087, code 00, type 00, val 00
+event at 1599638652.681114, code 57, type 03, val -1
+event at 1599638652.681114, code 330, type 01, val 00
+event at 1599638652.681114, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638654.204117, code 57, type 03, val 53
+event at 1599638654.204117, code 53, type 03, val 631
+event at 1599638654.204117, code 54, type 03, val 289
+event at 1599638654.204117, code 330, type 01, val 01
+event at 1599638624.830827, code 00, type 03, val 70
+event at 1599638624.830827, code 01, type 03, val 433
+event at 1599638624.830827, code 00, type 00, val 00
+event at 1599638624.864512, code 57, type 03, val -1
+event at 1599638624.864512, code 330, type 01, val 00
+event at 1599638624.864512, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638626.387374, code 57, type 03, val 45
+event at 1599638626.387374, code 53, type 03, val 531
+event at 1599638626.387374, code 54, type 03, val 225
+event at 1599638626.387374, code 330, type 01, val 01
+event at 1599638626.387374, code 00, type 03, val 531
+event at 1599638626.387374, code 01, type 03, val 225
+event at 1599638626.387374, code 00, type 00, val 00
+event at 1599638626.538289, code 53, type 03, val 530
+event at 1599638626.538289, code 00, type 03, val 530
+event at 1599638626.538289, code 00, type 00, val 00
+event at 1599638626.571915, code 57, type 03, val -1
+event at 1599638626.571915, code 330, type 01, val 00
+event at 1599638626.571915, code 00, type 00, val 00
+event at 1599638626.973687, code 57, type 03, val 46
+event at 1599638626.973687, code 53, type 03, val 552
+event at 1599638626.973687, code 54, type 03, val 232
+event at 1599638626.973687, code 330, type 01, val 01
+event at 1599638626.973687, code 00, type 03, val 552
+event at 1599638626.973687, code 01, type 03, val 232
+event at 1599638626.973687, code 00, type 00, val 00
+event at 1599638627.107847, code 54, type 03, val 236
+event at 1599638627.107847, code 01, type 03, val 236
+event at 1599638627.107847, code 00, type 00, val 00
+event at 1599638627.124777, code 57, type 03, val -1
+event at 1599638627.124777, code 330, type 01, val 00
+event at 1599638627.124777, code 00, type 00, val 00
+event at 1599638627.242074, code 57, type 03, val 47
+event at 1599638627.242074, code 53, type 03, val 663
+event at 1599638627.242074, code 54, type 03, val 365
+event at 1599638627.242074, code 330, type 01, val 01
+event at 1599638627.242074, code 00, type 03, val 663
+event at 1599638627.242074, code 01, type 03, val 365
+event at 1599638627.242074, code 00, type 00, val 00
+event at 1599638627.259002, code 53, type 03, val 664
+event at 1599638627.259002, code 00, type 03, val 664
+event at 1599638627.259002, code 00, type 00, val 00
+event at 1599638627.275957, code 53, type 03, val 667
+event at 1599638627.275957, code 54, type 03, val 366
+event at 1599638627.275957, code 00, type 03, val 667
+event at 1599638627.275957, code 01, type 03, val 366
+event at 1599638627.275957, code 00, type 00, val 00
+event at 1599638627.309628, code 53, type 03, val 677
+event at 1599638627.309628, code 54, type 03, val 370
+event at 1599638627.309628, code 00, type 03, val 677
+event at 1599638627.309628, code 01, type 03, val 370
+event at 1599638627.309628, code 00, type 00, val 00
+event at 1599638627.326506, code 53, type 03, val 684
+event at 1599638627.326506, code 54, type 03, val 372
+event at 1599638627.326506, code 00, type 03, val 684
+event at 1599638627.326506, code 01, type 03, val 372
+event at 1599638627.326506, code 00, type 00, val 00
+event at 1599638627.343413, code 53, type 03, val 695
+event at 1599638627.343413, code 54, type 03, val 376
+event at 1599638627.343413, code 00, type 03, val 695
+event at 1599638627.343413, code 01, type 03, val 376
+event at 1599638627.343413, code 00, type 00, val 00
+event at 1599638627.360292, code 53, type 03, val 698
+event at 1599638627.360292, code 54, type 03, val 378
+event at 1599638627.360292, code 00, type 03, val 698
+event at 1599638627.360292, code 01, type 03, val 378
+event at 1599638627.360292, code 00, type 00, val 00
+event at 1599638627.377202, code 53, type 03, val 701
+event at 1599638627.377202, code 54, type 03, val 379
+event at 1599638627.377202, code 00, type 03, val 701
+touch
+1
+event at 1599638627.377202, code 01, type 03, val 379
+event at 1599638627.377202, code 00, type 00, val 00
+event at 1599638627.427577, code 54, type 03, val 380
+event at 1599638627.427577, code 01, type 03, val 380
+event at 1599638627.427577, code 00, type 00, val 00
+event at 1599638627.444451, code 57, type 03, val -1
+event at 1599638627.444451, code 330, type 01, val 00
+event at 1599638627.444451, code 00, type 00, val 00
+touch
+1
+event at 1599638628.549187, code 57, type 03, val 48
+event at 1599638628.549187, code 53, type 03, val 748
+event at 1599638628.549187, code 54, type 03, val 250
+event at 1599638628.549187, code 330, type 01, val 01
+event at 1599638628.549187, code 00, type 03, val 748
+event at 1599638628.549187, code 01, type 03, val 250
+event at 1599638628.549187, code 00, type 00, val 00
+event at 1599638628.666600, code 54, type 03, val 251
+event at 1599638628.666600, code 01, type 03, val 251
+event at 1599638628.666600, code 00, type 00, val 00
+event at 1599638628.700236, code 53, type 03, val 747
+event at 1599638628.700236, code 54, type 03, val 255
+event at 1599638628.700236, code 00, type 03, val 747
+event at 1599638628.700236, code 01, type 03, val 255
+event at 1599638628.700236, code 00, type 00, val 00
+event at 1599638628.717122, code 57, type 03, val -1
+event at 1599638628.717122, code 330, type 01, val 00
+event at 1599638628.717122, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+touch
+1
+event at 1599638638.823842, code 57, type 03, val 49
+event at 1599638638.823842, code 53, type 03, val 66
+event at 1599638638.823842, code 54, type 03, val 428
+event at 1599638638.823842, code 330, type 01, val 01
+event at 1599638638.823842, code 00, type 03, val 66
+event at 1599638638.823842, code 01, type 03, val 428
+event at 1599638638.823842, code 00, type 00, val 00
+event at 1599638638.891045, code 57, type 03, val -1
+event at 1599638638.891045, code 330, type 01, val 00
+event at 1599638638.891045, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638640.313478, code 57, type 03, val 50
+event at 1599638640.313478, code 53, type 03, val 729
+event at 1599638640.313478, code 54, type 03, val 432
+event at 1599638640.313478, code 330, type 01, val 01
+event at 1599638640.313478, code 00, type 03, val 729
+event at 1599638640.313478, code 01, type 03, val 432
+event at 1599638640.313478, code 00, type 00, val 00
+event at 1599638640.397527, code 53, type 03, val 728
+event at 1599638640.397527, code 54, type 03, val 431
+event at 1599638640.397527, code 00, type 03, val 728
+event at 1599638640.397527, code 01, type 03, val 431
+event at 1599638640.397527, code 00, type 00, val 00
+event at 1599638640.414513, code 57, type 03, val -1
+event at 1599638640.414513, code 330, type 01, val 00
+event at 1599638640.414513, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+touch
+1
+event at 1599638651.608853, code 57, type 03, val 51
+event at 1599638651.608853, code 53, type 03, val 570
+event at 1599638651.608853, code 54, type 03, val 412
+event at 1599638651.608853, code 330, type 01, val 01
+event at 1599638651.608853, code 00, type 03, val 570
+event at 1599638651.608853, code 01, type 03, val 412
+event at 1599638651.608853, code 00, type 00, val 00
+event at 1599638651.692991, code 54, type 03, val 413
+event at 1599638651.692991, code 01, type 03, val 413
+event at 1599638651.692991, code 00, type 00, val 00
+event at 1599638651.709884, code 57, type 03, val -1
+event at 1599638651.709884, code 330, type 01, val 00
+event at 1599638651.709884, code 00, type 00, val 00
+event at 1599638652.580247, code 57, type 03, val 52
+event at 1599638652.580247, code 53, type 03, val 700
+event at 1599638652.580247, code 54, type 03, val 414
+event at 1599638652.580247, code 330, type 01, val 01
+event at 1599638652.580247, code 00, type 03, val 700
+event at 1599638652.580247, code 01, type 03, val 414
+event at 1599638652.580247, code 00, type 00, val 00
+touch
+1
+event at 1599638652.664087, code 54, type 03, val 416
+event at 1599638652.664087, code 01, type 03, val 416
+event at 1599638652.664087, code 00, type 00, val 00
+event at 1599638652.681114, code 57, type 03, val -1
+event at 1599638652.681114, code 330, type 01, val 00
+event at 1599638652.681114, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638654.204117, code 57, type 03, val 53
+event at 1599638654.204117, code 53, type 03, val 631
+event at 1599638654.204117, code 54, type 03, val 289
+event at 1599638654.204117, code 330, type 01, val 01
+event at 1599638654.204117, code 00, type 03, val 631
+event at 1599638654.204117, code 01, type 03, val 289
+event at 1599638654.204117, code 00, type 00, val 00
+event at 1599638654.271344, code 57, type 03, val -1
+event at 1599638654.271344, code 330, type 01, val 00
+event at 1599638654.271344, code 00, type 00, val 00
+2
+3
+4
+touch
+1
+event at 1599638657.885843, code 57, type 03, val 54
+event at 1599638657.885843, code 53, type 03, val 774
+event at 1599638657.885843, code 54, type 03, val 211
+event at 1599638657.885843, code 330, type 01, val 01
+event at 1599638657.885843, code 00, type 03, val 774
+event at 1599638657.885843, code 01, type 03, val 211
+event at 1599638657.885843, code 00, type 00, val 00
+event at 1599638657.936409, code 53, type 03, val 772
+event at 1599638657.936409, code 00, type 03, val 772
+event at 1599638657.936409, code 00, type 00, val 00
+event at 1599638657.986795, code 53, type 03, val 762
+event at 1599638657.986795, code 54, type 03, val 216
+event at 1599638657.986795, code 00, type 03, val 762
+event at 1599638657.986795, code 01, type 03, val 216
+event at 1599638657.986795, code 00, type 00, val 00
+event at 1599638658.003743, code 57, type 03, val -1
+event at 1599638658.003743, code 330, type 01, val 00
+event at 1599638658.003743, code 00, type 00, val 00
+event at 1599638658.573013, code 57, type 03, val 55
+event at 1599638658.573013, code 53, type 03, val 11
+event at 1599638658.573013, code 54, type 03, val 400
+event at 1599638658.573013, code 330, type 01, val 01
+event at 1599638658.573013, code 00, type 03, val 11
+event at 1599638658.573013, code 01, type 03, val 400
+event at 1599638658.573013, code 00, type 00, val 00
+event at 1599638658.623422, code 53, type 03, val 13
+event at 1599638658.623422, code 54, type 03, val 401
+event at 1599638658.623422, code 00, type 03, val 13
+event at 1599638658.623422, code 01, type 03, val 401
+event at 1599638658.623422, code 00, type 00, val 00
+event at 1599638658.640306, code 53, type 03, val 15
+event at 1599638658.640306, code 54, type 03, val 402
+event at 1599638658.640306, code 00, type 03, val 15
+event at 1599638658.640306, code 01, type 03, val 402
+event at 1599638658.640306, code 00, type 00, val 00
+event at 1599638658.657187, code 53, type 03, val 17
+event at 1599638658.657187, code 54, type 03, val 403
+event at 1599638658.657187, code 00, type 03, val 17
+event at 1599638658.657187, code 01, type 03, val 403
+event at 1599638658.657187, code 00, type 00, val 00
+event at 1599638658.690786, code 53, type 03, val 19
+event at 1599638658.690786, code 54, type 03, val 405
+event at 1599638658.690786, code 00, type 03, val 19
+event at 1599638658.690786, code 01, type 03, val 405
+event at 1599638658.690786, code 00, type 00, val 00
+event at 1599638658.707677, code 57, type 03, val -1
+event at 1599638658.707677, code 330, type 01, val 00
+event at 1599638658.707677, code 00, type 00, val 00
+touch
+1
+event at 1599638659.059252, code 57, type 03, val 56
+event at 1599638659.059252, code 53, type 03, val 62
+event at 1599638659.059252, code 54, type 03, val 416
+event at 1599638659.059252, code 330, type 01, val 01
+event at 1599638659.059252, code 00, type 03, val 62
+event at 1599638659.059252, code 01, type 03, val 416
+event at 1599638659.059252, code 00, type 00, val 00
+event at 1599638659.109922, code 54, type 03, val 417
+event at 1599638659.109922, code 01, type 03, val 417
+event at 1599638659.109922, code 00, type 00, val 00
+event at 1599638659.143728, code 57, type 03, val -1
+event at 1599638659.143728, code 330, type 01, val 00
+event at 1599638659.143728, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638661.871821, code 57, type 03, val 57
+event at 1599638661.871821, code 53, type 03, val 550
+event at 1599638661.871821, code 54, type 03, val 246
+event at 1599638661.871821, code 330, type 01, val 01
+event at 1599638661.871821, code 00, type 03, val 550
+event at 1599638661.871821, code 01, type 03, val 246
+event at 1599638661.871821, code 00, type 00, val 00
+event at 1599638661.955788, code 54, type 03, val 247
+event at 1599638661.955788, code 01, type 03, val 247
+event at 1599638661.955788, code 00, type 00, val 00
+event at 1599638661.972822, code 57, type 03, val -1
+event at 1599638661.972822, code 330, type 01, val 00
+event at 1599638661.972822, code 00, type 00, val 00
+event at 1599638662.274310, code 57, type 03, val 58
+event at 1599638662.274310, code 53, type 03, val 555
+event at 1599638662.274310, code 54, type 03, val 225
+event at 1599638662.274310, code 330, type 01, val 01
+event at 1599638662.274310, code 00, type 03, val 555
+event at 1599638662.274310, code 01, type 03, val 225
+event at 1599638662.274310, code 00, type 00, val 00
+event at 1599638662.341550, code 54, type 03, val 224
+event at 1599638662.341550, code 01, type 03, val 224
+event at 1599638662.341550, code 00, type 00, val 00
+event at 1599638662.375387, code 57, type 03, val -1
+event at 1599638662.375387, code 330, type 01, val 00
+event at 1599638662.375387, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638664.166423, code 57, type 03, val 59
+event at 1599638664.166423, code 53, type 03, val 718
+event at 1599638664.166423, code 54, type 03, val 438
+event at 1599638664.166423, code 330, type 01, val 01
+event at 1599638664.166423, code 00, type 03, val 718
+event at 1599638664.166423, code 01, type 03, val 438
+event at 1599638664.166423, code 00, type 00, val 00
+event at 1599638664.233646, code 54, type 03, val 437
+event at 1599638664.233646, code 01, type 03, val 437
+event at 1599638664.233646, code 00, type 00, val 00
+event at 1599638664.250629, code 57, type 03, val -1
+event at 1599638664.250629, code 330, type 01, val 00
+event at 1599638664.250629, code 00, type 00, val 00
+2
+3
+4
+5
+touch
+1
+event at 1599638669.479641, code 57, type 03, val 60
+event at 1599638669.479641, code 53, type 03, val 713
+event at 1599638669.479641, code 54, type 03, val 259
+event at 1599638669.479641, code 330, type 01, val 01
+event at 1599638669.479641, code 00, type 03, val 713
+event at 1599638669.479641, code 01, type 03, val 259
+event at 1599638669.479641, code 00, type 00, val 00
+event at 1599638669.580408, code 57, type 03, val -1
+event at 1599638669.580408, code 330, type 01, val 00
+event at 1599638669.580408, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638671.889902, code 57, type 03, val 61
+event at 1599638671.889902, code 53, type 03, val 88
+event at 1599638671.889902, code 54, type 03, val 351
+event at 1599638671.889902, code 330, type 01, val 01
+event at 1599638671.889902, code 00, type 03, val 88
+event at 1599638671.889902, code 01, type 03, val 351
+event at 1599638671.889902, code 00, type 00, val 00
+event at 1599638672.024168, code 54, type 03, val 354
+event at 1599638672.024168, code 01, type 03, val 354
+event at 1599638672.024168, code 00, type 00, val 00
+event at 1599638672.058031, code 57, type 03, val -1
+event at 1599638672.058031, code 330, type 01, val 00
+event at 1599638672.058031, code 00, type 00, val 00
+touch
+1
+event at 1599638673.213046, code 57, type 03, val 62
+event at 1599638673.213046, code 53, type 03, val 700
+event at 1599638673.213046, code 54, type 03, val 411
+event at 1599638673.213046, code 330, type 01, val 01
+event at 1599638673.213046, code 00, type 03, val 700
+event at 1599638673.213046, code 01, type 03, val 411
+event at 1599638673.213046, code 00, type 00, val 00
+event at 1599638673.263656, code 53, type 03, val 701
+event at 1599638673.263656, code 54, type 03, val 408
+event at 1599638673.263656, code 00, type 03, val 701
+event at 1599638673.263656, code 01, type 03, val 408
+event at 1599638673.263656, code 00, type 00, val 00
+event at 1599638673.297415, code 57, type 03, val -1
+event at 1599638673.297415, code 330, type 01, val 00
+event at 1599638673.297415, code 00, type 00, val 00
+event at 1599638673.565450, code 57, type 03, val 63
+event at 1599638673.565450, code 53, type 03, val 723
+event at 1599638673.565450, code 54, type 03, val 388
+event at 1599638673.565450, code 330, type 01, val 01
+event at 1599638673.565450, code 00, type 03, val 723
+event at 1599638673.565450, code 01, type 03, val 388
+event at 1599638673.565450, code 00, type 00, val 00
+event at 1599638673.632768, code 57, type 03, val -1
+event at 1599638654.204117, code 00, type 03, val 631
+event at 1599638654.204117, code 01, type 03, val 289
+event at 1599638654.204117, code 00, type 00, val 00
+event at 1599638654.271344, code 57, type 03, val -1
+event at 1599638654.271344, code 330, type 01, val 00
+event at 1599638654.271344, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638657.885843, code 57, type 03, val 54
+event at 1599638657.885843, code 53, type 03, val 774
+event at 1599638657.885843, code 54, type 03, val 211
+event at 1599638657.885843, code 330, type 01, val 01
+event at 1599638657.885843, code 00, type 03, val 774
+event at 1599638657.885843, code 01, type 03, val 211
+event at 1599638657.885843, code 00, type 00, val 00
+event at 1599638657.936409, code 53, type 03, val 772
+event at 1599638657.936409, code 00, type 03, val 772
+event at 1599638657.936409, code 00, type 00, val 00
+event at 1599638657.986795, code 53, type 03, val 762
+event at 1599638657.986795, code 54, type 03, val 216
+event at 1599638657.986795, code 00, type 03, val 762
+event at 1599638657.986795, code 01, type 03, val 216
+event at 1599638657.986795, code 00, type 00, val 00
+event at 1599638658.003743, code 57, type 03, val -1
+event at 1599638658.003743, code 330, type 01, val 00
+event at 1599638658.003743, code 00, type 00, val 00
+event at 1599638658.573013, code 57, type 03, val 55
+event at 1599638658.573013, code 53, type 03, val 11
+event at 1599638658.573013, code 54, type 03, val 400
+event at 1599638658.573013, code 330, type 01, val 01
+event at 1599638658.573013, code 00, type 03, val 11
+event at 1599638658.573013, code 01, type 03, val 400
+event at 1599638658.573013, code 00, type 00, val 00
+event at 1599638658.623422, code 53, type 03, val 13
+event at 1599638658.623422, code 54, type 03, val 401
+event at 1599638658.623422, code 00, type 03, val 13
+event at 1599638658.623422, code 01, type 03, val 401
+event at 1599638658.623422, code 00, type 00, val 00
+event at 1599638658.640306, code 53, type 03, val 15
+event at 1599638658.640306, code 54, type 03, val 402
+event at 1599638658.640306, code 00, type 03, val 15
+event at 1599638658.640306, code 01, type 03, val 402
+event at 1599638658.640306, code 00, type 00, val 00
+event at 1599638658.657187, code 53, type 03, val 17
+event at 1599638658.657187, code 54, type 03, val 403
+event at 1599638658.657187, code 00, type 03, val 17
+event at 1599638658.657187, code 01, type 03, val 403
+event at 1599638658.657187, code 00, type 00, val 00
+event at 1599638658.690786, code 53, type 03, val 19
+event at 1599638658.690786, code 54, type 03, val 405
+event at 1599638658.690786, code 00, type 03, val 19
+event at 1599638658.690786, code 01, type 03, val 405
+event at 1599638658.690786, code 00, type 00, val 00
+event at 1599638658.707677, code 57, type 03, val -1
+event at 1599638658.707677, code 330, type 01, val 00
+event at 1599638658.707677, code 00, type 00, val 00
+touch
+1
+event at 1599638659.059252, code 57, type 03, val 56
+event at 1599638659.059252, code 53, type 03, val 62
+event at 1599638659.059252, code 54, type 03, val 416
+event at 1599638659.059252, code 330, type 01, val 01
+event at 1599638659.059252, code 00, type 03, val 62
+event at 1599638659.059252, code 01, type 03, val 416
+event at 1599638659.059252, code 00, type 00, val 00
+event at 1599638659.109922, code 54, type 03, val 417
+event at 1599638659.109922, code 01, type 03, val 417
+event at 1599638659.109922, code 00, type 00, val 00
+event at 1599638659.143728, code 57, type 03, val -1
+event at 1599638659.143728, code 330, type 01, val 00
+event at 1599638659.143728, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638661.871821, code 57, type 03, val 57
+event at 1599638661.871821, code 53, type 03, val 550
+event at 1599638661.871821, code 54, type 03, val 246
+event at 1599638661.871821, code 330, type 01, val 01
+event at 1599638661.871821, code 00, type 03, val 550
+event at 1599638661.871821, code 01, type 03, val 246
+event at 1599638661.871821, code 00, type 00, val 00
+event at 1599638661.955788, code 54, type 03, val 247
+event at 1599638661.955788, code 01, type 03, val 247
+event at 1599638661.955788, code 00, type 00, val 00
+event at 1599638661.972822, code 57, type 03, val -1
+event at 1599638661.972822, code 330, type 01, val 00
+event at 1599638661.972822, code 00, type 00, val 00
+event at 1599638662.274310, code 57, type 03, val 58
+event at 1599638662.274310, code 53, type 03, val 555
+event at 1599638662.274310, code 54, type 03, val 225
+event at 1599638662.274310, code 330, type 01, val 01
+event at 1599638662.274310, code 00, type 03, val 555
+event at 1599638662.274310, code 01, type 03, val 225
+event at 1599638662.274310, code 00, type 00, val 00
+event at 1599638662.341550, code 54, type 03, val 224
+event at 1599638662.341550, code 01, type 03, val 224
+event at 1599638662.341550, code 00, type 00, val 00
+event at 1599638662.375387, code 57, type 03, val -1
+event at 1599638662.375387, code 330, type 01, val 00
+event at 1599638662.375387, code 00, type 00, val 00
+2
+3
+touch
+1
+event at 1599638664.166423, code 57, type 03, val 59
+event at 1599638664.166423, code 53, type 03, val 718
+event at 1599638664.166423, code 54, type 03, val 438
+event at 1599638664.166423, code 330, type 01, val 01
+event at 1599638664.166423, code 00, type 03, val 718
+event at 1599638664.166423, code 01, type 03, val 438
+event at 1599638664.166423, code 00, type 00, val 00
+event at 1599638664.233646, code 54, type 03, val 437
+event at 1599638664.233646, code 01, type 03, val 437
+event at 1599638664.233646, code 00, type 00, val 00
+event at 1599638664.250629, code 57, type 03, val -1
+event at 1599638664.250629, code 330, type 01, val 00
+event at 1599638664.250629, code 00, type 00, val 00
+2
+3
+4
+5
+touch
+1
+event at 1599638669.479641, code 57, type 03, val 60
+event at 1599638669.479641, code 53, type 03, val 713
+event at 1599638669.479641, code 54, type 03, val 259
+event at 1599638669.479641, code 330, type 01, val 01
+event at 1599638669.479641, code 00, type 03, val 713
+event at 1599638669.479641, code 01, type 03, val 259
+event at 1599638669.479641, code 00, type 00, val 00
+event at 1599638669.580408, code 57, type 03, val -1
+event at 1599638669.580408, code 330, type 01, val 00
+event at 1599638669.580408, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638671.889902, code 57, type 03, val 61
+event at 1599638671.889902, code 53, type 03, val 88
+event at 1599638671.889902, code 54, type 03, val 351
+event at 1599638671.889902, code 330, type 01, val 01
+event at 1599638671.889902, code 00, type 03, val 88
+event at 1599638671.889902, code 01, type 03, val 351
+event at 1599638671.889902, code 00, type 00, val 00
+event at 1599638672.024168, code 54, type 03, val 354
+event at 1599638672.024168, code 01, type 03, val 354
+event at 1599638672.024168, code 00, type 00, val 00
+event at 1599638672.058031, code 57, type 03, val -1
+event at 1599638672.058031, code 330, type 01, val 00
+event at 1599638672.058031, code 00, type 00, val 00
+2
+touch
+1
+event at 1599638673.213046, code 57, type 03, val 62
+event at 1599638673.213046, code 53, type 03, val 700
+event at 1599638673.213046, code 54, type 03, val 411
+event at 1599638673.213046, code 330, type 01, val 01
+event at 1599638673.213046, code 00, type 03, val 700
+event at 1599638673.213046, code 01, type 03, val 411
+event at 1599638673.213046, code 00, type 00, val 00
+event at 1599638673.263656, code 53, type 03, val 701
+event at 1599638673.263656, code 54, type 03, val 408
+event at 1599638673.263656, code 00, type 03, val 701
+event at 1599638673.263656, code 01, type 03, val 408
+event at 1599638673.263656, code 00, type 00, val 00
+event at 1599638673.297415, code 57, type 03, val -1
+event at 1599638673.297415, code 330, type 01, val 00
+event at 1599638673.297415, code 00, type 00, val 00
+event at 1599638673.565450, code 57, type 03, val 63
+event at 1599638673.565450, code 53, type 03, val 723
+event at 1599638673.565450, code 54, type 03, val 388
+event at 1599638673.565450, code 330, type 01, val 01
+event at 1599638673.565450, code 00, type 03, val 723
+event at 1599638673.565450, code 01, type 03, val 388
+event at 1599638673.565450, code 00, type 00, val 00
+event at 1599638673.632768, code 57, type 03, val -11
+2
+3
+4
+5
+6
+7
+8
+touch
+1
+event at 1599639227.006677, code 57, type 03, val 00
+event at 1599639227.006677, code 53, type 03, val 758
+event at 1599639227.006677, code 54, type 03, val 235
+event at 1599639227.006677, code 330, type 01, val 01
+event at 1599639227.006677, code 00, type 03, val 758
+event at 1599639227.006677, code 01, type 03, val 235
+event at 1599639227.006677, code 00, type 00, val 00
+event at 1599639227.057057, code 53, type 03, val 757
+event at 1599639227.057057, code 54, type 03, val 234
+event at 1599639227.057057, code 00, type 03, val 757
+event at 1599639227.057057, code 01, type 03, val 234
+event at 1599639227.057057, code 00, type 00, val 00
+event at 1599639227.073899, code 53, type 03, val 756
+event at 1599639227.073899, code 54, type 03, val 233
+event at 1599639227.073899, code 00, type 03, val 756
+event at 1599639227.073899, code 01, type 03, val 233
+event at 1599639227.073899, code 00, type 00, val 00
+event at 1599639227.090710, code 53, type 03, val 754
+event at 1599639227.090710, code 54, type 03, val 230
+event at 1599639227.090710, code 00, type 03, val 754
+event at 1599639227.090710, code 01, type 03, val 230
+event at 1599639227.090710, code 00, type 00, val 00
+event at 1599639227.107514, code 53, type 03, val 753
+event at 1599639227.107514, code 00, type 03, val 753
+event at 1599639227.107514, code 00, type 00, val 00
+event at 1599639227.124337, code 54, type 03, val 229
+event at 1599639227.124337, code 01, type 03, val 229
+event at 1599639227.124337, code 00, type 00, val 00
+event at 1599639227.157949, code 53, type 03, val 751
+event at 1599639227.157949, code 54, type 03, val 230
+event at 1599639227.157949, code 00, type 03, val 751
+event at 1599639227.157949, code 01, type 03, val 230
+event at 1599639227.157949, code 00, type 00, val 00
+event at 1599639227.174797, code 57, type 03, val -1
+event at 1599639227.174797, code 330, type 01, val 00
+event at 1599639227.174797, code 00, type 00, val 00
+event at 1599639227.911302, code 57, type 03, val 01
+event at 1599639227.911302, code 53, type 03, val 761
+event at 1599639227.911302, code 54, type 03, val 250
+event at 1599639227.911302, code 330, type 01, val 01
+event at 1599639227.911302, code 00, type 03, val 761
+event at 1599639227.911302, code 01, type 03, val 250
+event at 1599639227.911302, code 00, type 00, val 00
+touch
+1
+event at 1599639228.028635, code 54, type 03, val 249
+event at 1599639228.028635, code 01, type 03, val 249
+event at 1599639228.028635, code 00, type 00, val 00
+event at 1599639228.062210, code 57, type 03, val -1
+event at 1599639228.062210, code 330, type 01, val 00
+event at 1599639228.062210, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+touch
+1
+event at 1599639235.542366, code 57, type 03, val 02
+event at 1599639235.542366, code 53, type 03, val 55
+event at 1599639235.542366, code 54, type 03, val 433
+event at 1599639235.542366, code 330, type 01, val 01
+event at 1599639235.542366, code 00, type 03, val 55
+event at 1599639235.542366, code 01, type 03, val 433
+event at 1599639235.542366, code 00, type 00, val 00
+event at 1599639235.642974, code 53, type 03, val 54
+event at 1599639235.642974, code 00, type 03, val 54
+event at 1599639235.642974, code 00, type 00, val 00
+event at 1599639235.676560, code 57, type 03, val -1
+event at 1599639235.676560, code 330, type 01, val 00
+event at 1599639235.676560, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+touch
+1
+event at 1599639273.497142, code 57, type 03, val 03
+event at 1599639273.497142, code 53, type 03, val 741
+event at 1599639273.497142, code 54, type 03, val 415
+event at 1599639273.497142, code 330, type 01, val 01
+event at 1599639273.497142, code 00, type 03, val 741
+event at 1599639273.497142, code 01, type 03, val 415
+event at 1599639273.497142, code 00, type 00, val 00
+event at 1599639273.597727, code 53, type 03, val 742
+event at 1599639273.597727, code 54, type 03, val 412
+event at 1599639273.597727, code 00, type 03, val 742
+event at 1599639273.597727, code 01, type 03, val 412
+event at 1599639273.597727, code 00, type 00, val 00
+event at 1599639273.631284, code 57, type 03, val -1
+event at 1599639273.631284, code 330, type 01, val 00
+event at 1599639273.631284, code 00, type 00, val 00
+2
+touch
+1
+event at 1599639274.601988, code 57, type 03, val 04
+event at 1599639274.601988, code 53, type 03, val 240
+event at 1599639274.601988, code 54, type 03, val 414
+event at 1599639274.601988, code 330, type 01, val 01
+event at 1599639274.601988, code 00, type 03, val 240
+event at 1599639274.601988, code 01, type 03, val 414
+event at 1599639274.601988, code 00, type 00, val 00
+event at 1599639274.719270, code 53, type 03, val 241
+event at 1599639274.719270, code 54, type 03, val 415
+event at 1599639274.719270, code 00, type 03, val 241
+event at 1599639274.719270, code 01, type 03, val 415
+event at 1599639274.719270, code 00, type 00, val 00
+event at 1599639274.752779, code 57, type 03, val -1
+event at 1599639274.752779, code 330, type 01, val 00
+event at 1599639274.752779, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+touch
+1
+event at 1599639294.751791, code 57, type 03, val 05
+event at 1599639294.751791, code 53, type 03, val 704
+event at 1599639294.751791, code 54, type 03, val 421
+event at 1599639294.751791, code 330, type 01, val 01
+event at 1599639294.751791, code 00, type 03, val 704
+event at 1599639294.751791, code 01, type 03, val 421
+event at 1599639294.751791, code 00, type 00, val 00
+event at 1599639294.835675, code 57, type 03, val -1
+event at 1599639294.835675, code 330, type 01, val 00
+event at 1599639294.835675, code 00, type 00, val 00
+2
+touch
+1
+event at 1599639296.928279, code 57, type 03, val 06
+event at 1599639296.928279, code 53, type 03, val 398
+event at 1599639296.928279, code 54, type 03, val 385
+event at 1599639296.928279, code 330, type 01, val 01
+event at 1599639296.928279, code 00, type 03, val 398
+event at 1599639296.928279, code 01, type 03, val 385
+event at 1599639296.928279, code 00, type 00, val 00
+event at 1599639296.995440, code 54, type 03, val 386
+event at 1599639296.995440, code 01, type 03, val 386
+event at 1599639296.995440, code 00, type 00, val 00
+event at 1599639297.028976, code 57, type 03, val -1
+event at 1599639297.028976, code 330, type 01, val 00
+event at 1599639297.028976, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+touch
+1
+event at 1599639314.065799, code 57, type 03, val 07
+event at 1599639314.065799, code 53, type 03, val 702
+event at 1599639314.065799, code 54, type 03, val 392
+event at 1599639314.065799, code 330, type 01, val 01
+event at 1599639314.065799, code 00, type 03, val 702
+event at 1599639314.065799, code 01, type 03, val 392
+event at 1599639314.065799, code 00, type 00, val 00
+event at 1599639314.199752, code 57, type 03, val -1
+event at 1599639314.199752, code 330, type 01, val 00
+event at 1599639314.199752, code 00, type 00, val 00
+2
+touch
+1
+event at 1599639315.722807, code 57, type 03, val 08
+event at 1599639315.722807, code 53, type 03, val 536
+event at 1599639315.722807, code 54, type 03, val 411
+event at 1599639315.722807, code 330, type 01, val 01
+event at 1599639315.722807, code 00, type 03, val 536
+event at 1599639315.722807, code 01, type 03, val 411
+event at 1599639315.722807, code 00, type 00, val 00
+event at 1599639315.840193, code 54, type 03, val 408
+event at 1599639315.840193, code 01, type 03, val 408
+event at 1599639315.840193, code 00, type 00, val 00
+event at 1599639315.856960, code 57, type 03, val -1
+event at 1599639315.856960, code 330, type 01, val 00
+event at 1599639315.856960, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+touch
+1
+event at 1599639325.629782, code 57, type 03, val 09
+event at 1599639325.629782, code 54, type 03, val 125
+event at 1599639325.629782, code 330, type 01, val 01
+event at 1599639325.629782, code 01, type 03, val 125
+event at 1599639325.629782, code 00, type 00, val 00
+event at 1599639325.747118, code 57, type 03, val -1
+event at 1599639325.747118, code 330, type 01, val 00
+event at 1599639325.747118, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+touch
+1
+event at 1599639332.658751, code 57, type 03, val 10
+event at 1599639332.658751, code 53, type 03, val 122
+event at 1599639332.658751, code 54, type 03, val 409
+event at 1599639332.658751, code 330, type 01, val 01
+event at 1599639332.658751, code 00, type 03, val 122
+event at 1599639332.658751, code 01, type 03, val 409
+event at 1599639332.658751, code 00, type 00, val 00
+event at 1599639332.742630, code 54, type 03, val 410
+event at 1599639332.742630, code 01, type 03, val 410
+event at 1599639332.742630, code 00, type 00, val 00
+event at 1599639332.759437, code 57, type 03, val -1
+event at 1599639332.759437, code 330, type 01, val 00
+event at 1599639332.759437, code 00, type 00, val 00
+touch
+1
+event at 1599639333.947771, code 57, type 03, val 11
+event at 1599639333.947771, code 53, type 03, val 397
+event at 1599639333.947771, code 54, type 03, val 214
+event at 1599639333.947771, code 330, type 01, val 01
+event at 1599639333.947771, code 00, type 03, val 397
+event at 1599639333.947771, code 01, type 03, val 214
+event at 1599639333.947771, code 00, type 00, val 00
+event at 1599639334.065002, code 57, type 03, val -1
+event at 1599639334.065002, code 330, type 01, val 00
+event at 1599639334.065002, code 00, type 00, val 00
+event at 1599639334.733878, code 57, type 03, val 12
+event at 1599639334.733878, code 53, type 03, val 80
+event at 1599639334.733878, code 54, type 03, val 400
+event at 1599639334.733878, code 330, type 01, val 01
+event at 1599639334.733878, code 00, type 03, val 80
+event at 1599639334.733878, code 01, type 03, val 400
+event at 1599639334.733878, code 00, type 00, val 00
+event at 1599639334.784181, code 53, type 03, val 81
+event at 1599639334.784181, code 54, type 03, val 401
+event at 1599639334.784181, code 00, type 03, val 81
+event at 1599639334.784181, code 01, type 03, val 401
+event at 1599639334.784181, code 00, type 00, val 00
+event at 1599639334.817743, code 53, type 03, val 84
+event at 1599639334.817743, code 54, type 03, val 405
+event at 1599639334.817743, code 00, type 03, val 84
+event at 1599639334.817743, code 01, type 03, val 405
+event at 1599639334.817743, code 00, type 00, val 00
+event at 1599639334.851346, code 57, type 03, val -1
+event at 1599639334.851346, code 330, type 01, val 00
+event at 1599639334.851346, code 00, type 00, val 00
+2
+touch
+1
+event at 1599639335.839265, code 57, type 03, val 13
+event at 1599639335.839265, code 53, type 03, val 557
+event at 1599639335.839265, code 54, type 03, val 297
+event at 1599639335.839265, code 330, type 01, val 01
+event at 1599639335.839265, code 00, type 03, val 557
+event at 1599639335.839265, code 01, type 03, val 297
+event at 1599639335.839265, code 00, type 00, val 00
+event at 1599639335.923141, code 54, type 03, val 296
+event at 1599639335.923141, code 01, type 03, val 296
+event at 1599639335.923141, code 00, type 00, val 00
+event at 1599639335.956676, code 57, type 03, val -1
+event at 1599639335.956676, code 330, type 01, val 00
+event at 1599639335.956676, code 00, type 00, val 00
+event at 1599639336.809587, code 57, type 03, val 14
+event at 1599639336.809587, code 53, type 03, val 356
+event at 1599639336.809587, code 54, type 03, val 177
+event at 1599639336.809587, code 330, type 01, val 01
+event at 1599639336.809587, code 00, type 03, val 356
+event at 1599639336.809587, code 01, type 03, val 177
+event at 1599639336.809587, code 00, type 00, val 00
+touch
+1
+event at 1599639336.876677, code 53, type 03, val 357
+event at 1599639336.876677, code 00, type 03, val 357
+event at 1599639336.876677, code 00, type 00, val 00
+event at 1599639336.910213, code 57, type 03, val -1
+event at 1599639336.910213, code 330, type 01, val 00
+event at 1599639336.910213, code 00, type 00, val 00
+touch
+1
+event at 1599639337.964475, code 57, type 03, val 15
+event at 1599639337.964475, code 53, type 03, val 287
+event at 1599639337.964475, code 54, type 03, val 331
+event at 1599639337.964475, code 330, type 01, val 01
+event at 1599639337.964475, code 00, type 03, val 287
+event at 1599639337.964475, code 01, type 03, val 331
+event at 1599639337.964475, code 00, type 00, val 00
+event at 1599639338.031584, code 54, type 03, val 332
+event at 1599639338.031584, code 01, type 03, val 332
+event at 1599639338.031584, code 00, type 00, val 00
+event at 1599639338.048400, code 57, type 03, val -1
+event at 1599639338.048400, code 330, type 01, val 00
+event at 1599639338.048400, code 00, type 00, val 00
+event at 1599639338.751393, code 57, type 03, val 16
+event at 1599639338.751393, code 53, type 03, val 534
+event at 1599639338.751393, code 54, type 03, val 330
+event at 1599639338.751393, code 330, type 01, val 01
+event at 1599639338.751393, code 00, type 03, val 534
+event at 1599639338.751393, code 01, type 03, val 330
+event at 1599639338.751393, code 00, type 00, val 00
+event at 1599639338.868784, code 53, type 03, val 533
+event at 1599639338.868784, code 54, type 03, val 332
+event at 1599639338.868784, code 00, type 03, val 533
+event at 1599639338.868784, code 01, type 03, val 332
+event at 1599639338.868784, code 00, type 00, val 00
+event at 1599639338.885600, code 57, type 03, val -1
+event at 1599639338.885600, code 330, type 01, val 00
+event at 1599639338.885600, code 00, type 00, val 00
+touch
+1
+event at 1599639339.053038, code 57, type 03, val 17
+event at 1599639339.053038, code 53, type 03, val 518
+event at 1599639339.053038, code 54, type 03, val 319
+event at 1599639339.053038, code 330, type 01, val 01
+event at 1599639339.053038, code 00, type 03, val 518
+event at 1599639339.053038, code 01, type 03, val 319
+event at 1599639339.053038, code 00, type 00, val 00
+event at 1599639339.153771, code 53, type 03, val 516
+event at 1599639339.153771, code 54, type 03, val 322
+event at 1599639339.153771, code 00, type 03, val 516
+event at 1599639339.153771, code 01, type 03, val 322
+event at 1599639339.153771, code 00, type 00, val 00
+event at 1599639339.170570, code 57, type 03, val -1
+event at 1599639339.170570, code 330, type 01, val 00
+event at 1599639339.170570, code 00, type 00, val 00
+event at 1599639339.756474, code 57, type 03, val 18
+event at 1599639339.756474, code 53, type 03, val 335
+event at 1599639339.756474, code 54, type 03, val 334
+event at 1599639339.756474, code 330, type 01, val 01
+event at 1599639339.756474, code 00, type 03, val 335
+event at 1599639339.756474, code 01, type 03, val 334
+event at 1599639339.756474, code 00, type 00, val 00
+event at 1599639339.857051, code 53, type 03, val 337
+event at 1599639339.857051, code 54, type 03, val 335
+event at 1599639339.857051, code 00, type 03, val 337
+event at 1599639339.857051, code 01, type 03, val 335
+event at 1599639339.857051, code 00, type 00, val 00
+event at 1599639339.890607, code 57, type 03, val -1
+event at 1599639339.890607, code 330, type 01, val 00
+event at 1599639339.890607, code 00, type 00, val 00
+touch
+1
+event at 1599639340.125033, code 57, type 03, val 19
+event at 1599639340.125033, code 53, type 03, val 443
+event at 1599639340.125033, code 54, type 03, val 159
+event at 1599639340.125033, code 330, type 01, val 01
+event at 1599639340.125033, code 00, type 03, val 443
+event at 1599639340.125033, code 01, type 03, val 159
+event at 1599639340.125033, code 00, type 00, val 00
+event at 1599639340.242476, code 54, type 03, val 162
+event at 1599639340.242476, code 01, type 03, val 162
+event at 1599639340.242476, code 00, type 00, val 00
+event at 1599639340.259281, code 57, type 03, val -1
+event at 1599639340.259281, code 330, type 01, val 00
+event at 1599639340.259281, code 00, type 00, val 00
+event at 1599639340.945738, code 57, type 03, val 20
+event at 1599639340.945738, code 53, type 03, val 275
+event at 1599639340.945738, code 54, type 03, val 342
+event at 1599639340.945738, code 330, type 01, val 01
+event at 1599639340.945738, code 00, type 03, val 275
+event at 1599639340.945738, code 01, type 03, val 342
+event at 1599639340.945738, code 00, type 00, val 00
+event at 1599639341.046277, code 54, type 03, val 341
+event at 1599639341.046277, code 01, type 03, val 341
+event at 1599639341.046277, code 00, type 00, val 00
+event at 1599639341.063083, code 54, type 03, val 339
+event at 1599639341.063083, code 01, type 03, val 339
+event at 1599639341.063083, code 00, type 00, val 00
+event at 1599639341.079876, code 54, type 03, val 338
+event at 1599639341.079876, code 01, type 03, val 338
+event at 1599639341.079876, code 00, type 00, val 00
+touch
+1
+event at 1599639341.130218, code 57, type 03, val -1
+event at 1599639341.130218, code 330, type 01, val 00
+event at 1599639341.130218, code 00, type 00, val 00
+event at 1599639341.699423, code 57, type 03, val 21
+event at 1599639341.699423, code 53, type 03, val 518
+event at 1599639341.699423, code 54, type 03, val 332
+event at 1599639341.699423, code 330, type 01, val 01
+event at 1599639341.699423, code 00, type 03, val 518
+event at 1599639341.699423, code 01, type 03, val 332
+event at 1599639341.699423, code 00, type 00, val 00
+event at 1599639341.816755, code 54, type 03, val 333
+event at 1599639341.816755, code 01, type 03, val 333
+event at 1599639341.816755, code 00, type 00, val 00
+event at 1599639341.850318, code 54, type 03, val 334
+event at 1599639341.850318, code 01, type 03, val 334
+event at 1599639341.850318, code 00, type 00, val 00
+event at 1599639341.867113, code 57, type 03, val -1
+event at 1599639341.867113, code 330, type 01, val 00
+event at 1599639341.867113, code 00, type 00, val 00
+event at 1599639341.950882, code 57, type 03, val 22
+event at 1599639341.950882, code 53, type 03, val 520
+event at 1599639341.950882, code 54, type 03, val 318
+event at 1599639341.950882, code 330, type 01, val 01
+event at 1599639341.950882, code 00, type 03, val 520
+event at 1599639341.950882, code 01, type 03, val 318
+event at 1599639341.950882, code 00, type 00, val 00
+event at 1599639342.051411, code 54, type 03, val 319
+event at 1599639342.051411, code 01, type 03, val 319
+event at 1599639342.051411, code 00, type 00, val 00
+event at 1599639342.084959, code 57, type 03, val -1
+event at 1599639342.084959, code 330, type 01, val 00
+event at 1599639342.084959, code 00, type 00, val 00
+2
+touch
+1
+event at 1599639342.721164, code 57, type 03, val 23
+event at 1599639342.721164, code 53, type 03, val 328
+event at 1599639342.721164, code 54, type 03, val 331
+event at 1599639342.721164, code 330, type 01, val 01
+event at 1599639342.721164, code 00, type 03, val 328
+event at 1599639342.721164, code 01, type 03, val 331
+event at 1599639342.721164, code 00, type 00, val 00
+event at 1599639342.821758, code 53, type 03, val 330
+event at 1599639342.821758, code 54, type 03, val 333
+event at 1599639342.821758, code 00, type 03, val 330
+event at 1599639342.821758, code 01, type 03, val 333
+event at 1599639342.821758, code 00, type 00, val 00
+event at 1599639342.838567, code 57, type 03, val -1
+event at 1599639342.838567, code 330, type 01, val 00
+event at 1599639342.838567, code 00, type 00, val 00
+event at 1599639343.240365, code 57, type 03, val 24
+event at 1599639343.240365, code 53, type 03, val 363
+event at 1599639343.240365, code 54, type 03, val 261
+event at 1599639343.240365, code 330, type 01, val 01
+event at 1599639343.240365, code 00, type 03, val 363
+event at 1599639343.240365, code 01, type 03, val 261
+event at 1599639343.240365, code 00, type 00, val 00
+event at 1599639343.307469, code 53, type 03, val 362
+event at 1599639343.307469, code 00, type 03, val 362
+event at 1599639343.307469, code 00, type 00, val 00
+event at 1599639343.324350, code 57, type 03, val -1
+event at 1599639343.324350, code 330, type 01, val 00
+event at 1599639343.324350, code 00, type 00, val 00
+touch
+1
+event at 1599639343.943810, code 57, type 03, val 25
+event at 1599639343.943810, code 53, type 03, val 356
+event at 1599639343.943810, code 54, type 03, val 280
+event at 1599639343.943810, code 330, type 01, val 01
+event at 1599639343.943810, code 00, type 03, val 356
+event at 1599639343.943810, code 01, type 03, val 280
+event at 1599639343.943810, code 00, type 00, val 00
+event at 1599639344.010981, code 53, type 03, val 357
+event at 1599639344.010981, code 54, type 03, val 279
+event at 1599639344.010981, code 00, type 03, val 357
+event at 1599639344.010981, code 01, type 03, val 279
+event at 1599639344.010981, code 00, type 00, val 00
+event at 1599639344.027781, code 57, type 03, val -1
+event at 1599639344.027781, code 330, type 01, val 00
+event at 1599639344.027781, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+touch
+1
+event at 1599639364.411853, code 57, type 03, val 26
+event at 1599639364.411853, code 53, type 03, val 722
+event at 1599639364.411853, code 54, type 03, val 413
+event at 1599639364.411853, code 330, type 01, val 01
+event at 1599639364.411853, code 00, type 03, val 722
+event at 1599639364.411853, code 01, type 03, val 413
+event at 1599639364.411853, code 00, type 00, val 00
+event at 1599639364.495633, code 54, type 03, val 414
+event at 1599639364.495633, code 01, type 03, val 414
+event at 1599639364.495633, code 00, type 00, val 00
+event at 1599639364.512431, code 57, type 03, val -1
+event at 1599639364.512431, code 330, type 01, val 00
+event at 1599639364.512431, code 00, type 00, val 00
+2
+3
+4
+5
+touch
+1
+event at 1599639368.830299, code 57, type 03, val 27
+event at 1599639368.830299, code 53, type 03, val 536
+event at 1599639368.830299, code 54, type 03, val 415
+event at 1599639368.830299, code 330, type 01, val 01
+event at 1599639368.830299, code 00, type 03, val 536
+event at 1599639368.830299, code 01, type 03, val 415
+event at 1599639368.830299, code 00, type 00, val 00
+event at 1599639368.930946, code 54, type 03, val 417
+event at 1599639368.930946, code 01, type 03, val 417
+event at 1599639368.930946, code 00, type 00, val 00
+event at 1599639368.947777, code 57, type 03, val -1
+event at 1599639368.947777, code 330, type 01, val 00
+event at 1599639368.947777, code 00, type 00, val 00
+2
+3
+4
+touch
+1
+event at 1599639373.501373, code 57, type 03, val 28
+event at 1599639373.501373, code 53, type 03, val 726
+event at 1599639373.501373, code 54, type 03, val 416
+event at 1599639373.501373, code 330, type 01, val 01
+event at 1599639373.501373, code 00, type 03, val 726
+event at 1599639373.501373, code 01, type 03, val 416
+event at 1599639373.501373, code 00, type 00, val 00
+event at 1599639373.601942, code 53, type 03, val 725
+event at 1599639373.601942, code 00, type 03, val 725
+event at 1599639373.601942, code 00, type 00, val 00
+event at 1599639373.635515, code 57, type 03, val -1
+event at 1599639373.635515, code 330, type 01, val 00
+event at 1599639373.635515, code 00, type 00, val 00
+2
+touch
+1
+event at 1599639374.840915, code 57, type 03, val 29
+event at 1599639374.840915, code 53, type 03, val 750
+event at 1599639374.840915, code 54, type 03, val 261
+event at 1599639374.840915, code 330, type 01, val 01
+event at 1599639374.840915, code 00, type 03, val 750
+event at 1599639374.840915, code 01, type 03, val 261
+event at 1599639374.840915, code 00, type 00, val 00
+event at 1599639374.958387, code 53, type 03, val 751
+event at 1599639374.958387, code 54, type 03, val 262
+event at 1599639374.958387, code 00, type 03, val 751
+event at 1599639374.958387, code 01, type 03, val 262
+event at 1599639374.958387, code 00, type 00, val 00
+event at 1599639374.992013, code 57, type 03, val -1
+event at 1599639374.992013, code 330, type 01, val 00
+event at 1599639374.992013, code 00, type 00, val 00
+2
+3
+4
+touch
+1
+event at 1599639378.907942, code 57, type 03, val 30
+event at 1599639378.907942, code 53, type 03, val 759
+event at 1599639378.907942, code 54, type 03, val 240
+event at 1599639378.907942, code 330, type 01, val 01
+event at 1599639378.907942, code 00, type 03, val 759
+event at 1599639378.907942, code 01, type 03, val 240
+event at 1599639378.907942, code 00, type 00, val 00
+event at 1599639378.991897, code 54, type 03, val 242
+event at 1599639378.991897, code 01, type 03, val 242
+event at 1599639378.991897, code 00, type 00, val 00
+event at 1599639379.042219, code 57, type 03, val -1
+event at 1599639379.042219, code 330, type 01, val 00
+event at 1599639379.042219, code 00, type 00, val 00
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97

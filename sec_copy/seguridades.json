@@ -1,0 +1,20 @@
+{
+    "inv_tmax_agua1": 50,
+    "inv_tmax_suelo1": 28,
+    "inv_tmin_suelo1": 22,
+    "ver_tmin_agua1": 15,
+    "ver_tmin_suelo1": 17,
+    "ant_tmax_agua1": 30,
+    "ant_tmin_agua1": 5,
+    "ant_tmin_suelo1": 8,
+    "inv_tmax_agua2": 50,
+    "inv_tmax_suelo2": 28,
+    "inv_tmin_suelo2": 22,
+    "ver_tmin_agua2": 15,
+    "ver_tmin_suelo2": 17,
+    "ant_tmax_agua2": 30,
+    "ant_tmin_agua2": 5,
+    "ant_tmin_suelo2": 8,
+    "ant_tmin_ext": 5,
+    "ver_tmin_ext": 20
+}
