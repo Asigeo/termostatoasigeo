@@ -367,7 +367,7 @@ class MainApp(App):
 		super().__init__(**kwargs)
 		# SEGURIDADES
 		logging.info("Primero")
-		with open('json_f/seguridades.json', 'r') as file:
+		with open('/home/pi/ASIGEO/json_f/seguridades.json', 'r') as file:
 			seguridades = json.load(file)
 
 		self.act_seguridades = 0
@@ -387,8 +387,8 @@ class MainApp(App):
 		self.t_suelo = [25, 25]
 
 		self.t_agua = [25, 25]
-		self.scheduler = np.load("json_f/scheduler.npy")
-		with open("json_f/modo.json") as f:
+		self.scheduler = np.load("/home/pi/ASIGEO/json_f/scheduler.npy")
+		with open("/home/pi/ASIGEO/json_f/modo.json") as f:
 			modo = json.load(f)
 			self.modo = modo['modo']
 			logging.info("El modo con el que se ha inicializado es " + self.modo)
@@ -401,19 +401,19 @@ class MainApp(App):
 		else:
 			self.etiqprinc = '[b][color=A49B0F] MODO ANTIHIELO [/color][/b]'
 
-		with open("json_f/pantalla1.json") as f:
+		with open("/home/pi/ASIGEO/json_f/pantalla1.json") as f:
 			pant = json.load(f)
 			cons1 = pant['consigna']
 
-		with open("json_f/pantalla2.json") as f:
+		with open("/home/pi/ASIGEO/json_f/pantalla2.json") as f:
 			pant = json.load(f)
 			cons2 = pant['consigna']
 
-		with open("json_f/pantalla3.json") as f:
+		with open("/home/pi/ASIGEO/json_f/pantalla3.json") as f:
 			pant = json.load(f)
 			cons3 = pant['consigna']
 		self.consignas = [cons1, cons2, cons3]
-		with open("json_f/consignas.json") as f:
+		with open("/home/pi/ASIGEO/json_f/consignas.json") as f:
 			pant = json.load(f)
 			self.reducido_inv = pant['reducido_inv']
 			self.reducido_ver = pant['reducido_ver']
@@ -423,7 +423,7 @@ class MainApp(App):
 		self.zona = 0
 
 
-		with open("json_f/ajustes.json") as f:
+		with open("/home/pi/ASIGEO/json_f/ajustes.json") as f:
 			ajustes = json.load(f)
 			bombas = ajustes['bombas']
 			self.bombas = [bool(bombas[0]), bool(bombas[1])]
@@ -431,14 +431,14 @@ class MainApp(App):
 			self.pt1000 = ajustes['pt1000']
 
 		self.comfort = [0, 0]
-		with open("json_f/states.json") as f:
+		with open("/home/pi/ASIGEO/json_f/states.json") as f:
 			self.states = json.load(f)
-		with open("json_f/states_sondas.json") as f:
+		with open("/home/pi/ASIGEO/json_f/states_sondas.json") as f:
 			self.states_sondas = json.load(f)
 
-		with open("json_f/estado_bombas.json") as f:
+		with open("/home/pi/ASIGEO/json_f/estado_bombas.json") as f:
 			self.estado_bombas = json.load(f)
-		with open("json_f/estado_curvas.json") as f:
+		with open("/home/pi/ASIGEO/json_f/estado_curvas.json") as f:
 			self.estado_curvas = json.load(f)
 
 		self.ajustes = True
@@ -518,7 +518,7 @@ class MainApp(App):
 
 		logging.info(seguridad)
 
-		with open('json_f/seguridades.json') as f:
+		with open('/home/pi/ASIGEO/json_f/seguridades.json') as f:
 			seguridades = json.load(f)
 			self.root.ids.valor_actual.text = str(seguridades[seguridad])
 			self.root.ids.nuevo_valor.text = ''
@@ -550,9 +550,9 @@ class MainApp(App):
 			nvalor = int(n_valor)
 			seguridad = self.get_seguridad(modo, zona, sec)
 			logging.info(seguridad)
-			with open('json_f/seguridades.json', 'r+') as f:
+			with open('/home/pi/ASIGEO/json_f/seguridades.json', 'r+') as f:
 				seguridades = json.load(f)
-			with open('json_f/seguridades.json', 'w') as f:
+			with open('/home/pi/ASIGEO/json_f/seguridades.json', 'w') as f:
 
 				if seguridad != 0:
 					f.seek(0)
@@ -622,7 +622,7 @@ class MainApp(App):
 	def borrar_scheduler(self):
 		semScheduler.acquire()
 		self.scheduler[:, :, :] = 0
-		np.save("json_f/scheduler.npy",self.scheduler)
+		np.save("/home/pi/ASIGEO/json_f/scheduler.npy",self.scheduler)
 		semScheduler.release()
 
 	def cambiar_modo(self, modo, flag_user):
@@ -661,10 +661,10 @@ class MainApp(App):
 			'modo': self.modo
 		}
 		semModo.release()
-		with open('json_f/modo.json', 'w') as file:
+		with open('/home/pi/ASIGEO/json_f/modo.json', 'w') as file:
 			json.dump(data, file, indent=4)
 
-		with open('json_f/states.json', 'w') as file:
+		with open('/home/pi/ASIGEO/json_f/states.json', 'w') as file:
 			json.dump(self.states, file,indent=4)
 		sem.release()
 
@@ -687,7 +687,7 @@ class MainApp(App):
 			semScheduler.acquire()
 			dia_sched = self.scheduler[zona, dia, :]
 			self.scheduler[zona, dia_copiar, :] = dia_sched
-			np.save("json_f/scheduler.npy", self.scheduler)
+			np.save("/home/pi/ASIGEO/json_f/scheduler.npy", self.scheduler)
 			semScheduler.release()
 
 	def reset_sched(self):
@@ -695,7 +695,7 @@ class MainApp(App):
 		self.scheduler = np.zeros((2, 7, 24))
 		self.root.ids.dias.text = 'Lunes'
 		self.cambiar_dia()
-		np.save("json_f/scheduler.npy", self.scheduler)
+		np.save("/home/pi/ASIGEO/json_f/scheduler.npy", self.scheduler)
 		semScheduler.release()
 
 	def cambiar_dia(self):
@@ -733,7 +733,7 @@ class MainApp(App):
 		semScheduler.acquire()
 		dia_sched = self.dict_dias[dia]
 		self.scheduler[self.zona, dia_sched, hora] = valor
-		np.save("json_f/scheduler.npy", self.scheduler)
+		np.save("/home/pi/ASIGEO/json_f/scheduler.npy", self.scheduler)
 		semScheduler.release()
 
 	def dummy(self):
@@ -751,7 +751,7 @@ class MainApp(App):
 
 	def modo_curva(self, curva, zona):
 		self.curvas[zona] = curva
-		with open("json_f/ajustes.json", 'r+') as f:
+		with open("/home/pi/ASIGEO/json_f/ajustes.json", 'r+') as f:
 			ajustes = json.load(f)
 			aj_curva = ajustes['curvas']
 			aj_curva[zona] = int(curva)
@@ -771,13 +771,13 @@ class MainApp(App):
 			self.estado_curvas[zona]["b1"] = "normal"
 			self.estado_curvas[zona]["b2"] = "normal"
 			self.estado_curvas[zona]["b3"] = "down"
-		with open("json_f/estado_curvas.json", "w") as f:
+		with open("/home/pi/ASIGEO/json_f/estado_curvas.json", "w") as f:
 			json.dump(self.estado_curvas, f, indent=4)
 		#logging.info('JSON curvas: ' + self.listToString(self.estado_curvas))
 
 	def modo_bomba(self, zona, modo):
 		self.bombas[zona] = modo
-		with open("json_f/ajustes.json", 'r+') as f:
+		with open("/home/pi/ASIGEO/json_f/ajustes.json", 'r+') as f:
 			ajustes = json.load(f)
 			aj_bomba = ajustes['bombas']
 			aj_bomba[zona] = int(modo)
@@ -802,14 +802,14 @@ class MainApp(App):
 				elif zona==1: self.root.ids.mod_bomb_z2.text = "[b] AUTO ON [/b]"
 			except:
 				logging.info(Exception)
-		with open("json_f/estado_bombas.json", "w") as f:
+		with open("/home/pi/ASIGEO/json_f/estado_bombas.json", "w") as f:
 			json.dump(self.estado_bombas, f, indent=4)
 			#logging.info('JSON bombas: ' + self.listToString(self.estado_bombas))
 
 
 	def cambia_sonda(self, sonda, num):
 		self.pt1000[num] = sonda
-		with open("json_f/ajustes.json", 'r+') as f:
+		with open("/home/pi/ASIGEO/json_f/ajustes.json", 'r+') as f:
 			ajustes = json.load(f)
 			ajustes['pt1000'] = self.pt1000
 			f.seek(0)
@@ -821,14 +821,14 @@ class MainApp(App):
 		else:
 			self.states_sondas[num]["b1"] = "down"
 			self.states_sondas[num]["b2"] = "normal"
-		with open("json_f/states_sondas.json", "w") as f:
+		with open("/home/pi/ASIGEO/json_f/states_sondas.json", "w") as f:
 			json.dump(self.states_sondas, f, indent=4)
 	def lock(self):
 		self.ajustes = True
 		self.next_screen('menu')
 
 	def do_login(self, user, password):
-		with open("json_f/user.json") as f:
+		with open("/home/pi/ASIGEO/json_f/user.json") as f:
 			login = json.load(f)
 		if user == login['user'] and password == login['password']:
 			self.root.current = "ajustes_admin"
@@ -883,7 +883,7 @@ class MainApp(App):
 			self.root.ids.cons_z2_inv_conf.text = str(self.consignas[zona])
 			self.root.ids.cons_z2_ver_conf.text = str(self.consignas[zona])
 
-		with open("json_f/pantalla" + str(zona + 1) + ".json", 'r+') as f:
+		with open("/home/pi/ASIGEO/json_f/pantalla" + str(zona + 1) + ".json", 'r+') as f:
 			pant = json.load(f)
 			pant['consigna'] = self.consignas[zona]
 			f.seek(0)

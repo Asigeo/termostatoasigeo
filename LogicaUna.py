@@ -69,7 +69,7 @@ class LogicaZona:
         self.antihielo = False
         
         self.consigna = 20
-        with open('json_f/seguridades.json', 'r') as file:
+        with open('/home/pi/ASIGEO/json_f/seguridades.json', 'r') as file:
             seguridades = json.load(file)
         # seguridades
         if zona == 1:
@@ -114,7 +114,7 @@ class LogicaZona:
         reles.seguridad()
 
     def act_seguridades(self):
-        with open('json_f/seguridades.json', 'r') as file:
+        with open('/home/pi/ASIGEO/json_f/seguridades.json', 'r') as file:
             seguridades = json.load(file)
         # seguridades
         if self.zona == 1:
