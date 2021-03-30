@@ -14,11 +14,9 @@ Aquí se indican las instrucciones a seguir durante la instalación:
  	6. Los equipos tienen que tener un usuario pi con privilegios sudo.
 
  - Advertencias:
- 	- El ejecutable "server" solo funciona para distribución debian6.
- 	- Después si el usuario quiere puede borrar los ficheros enviados por scp.
- 	- La contraseña que se introduzca por el usuario debe de ser previamente notificada por nosotros.
- 	- Si no se puede establecer una conexión ssh no será posible puesto que el debian6 disponible no monta USB.
- 	- El log aun no esta en funcionamiento se printea todo por pantalla.
+ 	- El ejecutable "server" solo funciona para distribución debian6 (misma versión que tiene instalada el equipo de test facilitado por ASIGEO).
+ 	- Después, si el usuario quiere, puede borrar los ficheros enviados por scp.
+ 	- La contraseña que se introduzca por el usuario debe de ser previamente notificada por nosotros. (necesaria para la conexión con la plataforma)
 
 
  - Pasos:
@@ -32,5 +30,4 @@ Aquí se indican las instrucciones a seguir durante la instalación:
  	- Finalmente pedirá si se quiere reiniciar el equipo.
  		(CUIDADO: Los cambios solo se realizaran si se reinicia el equipo sino
  		la app no correrá automáticamente)
-
  
