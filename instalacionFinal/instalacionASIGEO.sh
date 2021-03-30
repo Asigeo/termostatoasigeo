@@ -88,6 +88,9 @@ else
 	echo "exit 0" >> /etc/rc.local
 fi
 
+echo "Instalando dependencias necesarias"
+sudo pip3 install -r requirements.txt
+
 echo "Instalacion terminada"
 sleep 1
 echo "[Escribe: [Y|y] para confirmar u otra caso para denegar]"
