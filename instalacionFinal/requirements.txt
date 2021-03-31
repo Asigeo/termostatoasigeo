@@ -41,7 +41,6 @@ ssh-import-id==5.7
 tb-rest-client==1.1.0
 toolz==0.11.1
 typing-extensions==3.7.4.3
-ufw==0.36
 UliEngineering==0.3.5
 urllib3==1.24.1
 virtualenv==20.4.2

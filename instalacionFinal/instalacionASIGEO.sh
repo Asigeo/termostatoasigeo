@@ -58,7 +58,6 @@ while : ; do
 		break
 	else
 		PASS="$PASS$k"
-		echo $PASS
 	fi
 done
 echo "La contraseña será: " $PASS
@@ -89,6 +88,8 @@ else
 fi
 
 echo "Instalando dependencias necesarias"
+
+sudo apt install python3-pip
 sudo pip3 install -r requirements.txt
 
 echo "Instalacion terminada"
