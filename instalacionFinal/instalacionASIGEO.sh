@@ -1,6 +1,7 @@
 #!/bin/bash
 
 PATH_DIR="/home/pi/ASIGEO/"
+PATH_DIR="/home/pi/"
 ZIP="ASIGEO.zip"
 
 echo "Realizando instalación de equipo ASIGEO"
@@ -89,7 +90,11 @@ else
 fi
 
 echo "Instalando dependencias necesarias"
+sudo apt-get update
+sudo apt-get full-upgrade
+sudo apt-get install python3-pip
 sudo pip3 install -r requirements.txt
+sudo cp config.ini $PATH_HOME".kivy/config.ini"
 
 echo "Instalacion terminada"
 sleep 1
