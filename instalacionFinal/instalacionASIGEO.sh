@@ -59,7 +59,6 @@ while : ; do
 		break
 	else
 		PASS="$PASS$k"
-		echo $PASS
 	fi
 done
 echo "La contraseña será: " $PASS
