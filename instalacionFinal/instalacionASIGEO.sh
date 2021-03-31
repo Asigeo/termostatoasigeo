@@ -1,7 +1,7 @@
 #!/bin/bash
 
 PATH_DIR="/home/pi/ASIGEO/"
-PATH_DIR="/home/pi/"
+PATH_KIVY="/root/"
 ZIP="ASIGEO.zip"
 
 echo "Realizando instalación de equipo ASIGEO"
@@ -89,12 +89,29 @@ else
 fi
 
 echo "Instalando dependencias necesarias"
-sudo apt-get update
-sudo apt-get full-upgrade
-sudo apt-get install python3-pip
+sudo apt-get -y update
+sudo apt-get -y full-upgrade
+sudo apt-get install -y python3-pip
 sudo pip3 install -r requirements.txt
-sudo cp config.ini $PATH_HOME".kivy/config.ini"
-
+sudo apt-get install -y libatlas-base-dev
+sudo apt-get install -y \
+    libsdl2-dev \
+    libsdl2-image-dev \
+    libsdl2-mixer-dev \
+    libsdl2-ttf-dev \
+    libportmidi-dev \
+    libswscale-dev \
+    libavformat-dev \
+    libavcodec-dev \
+    zlib1g-dev
+sudo apt-get install -y \
+    libgstreamer1.0 \
+    gstreamer1.0-plugins-base \
+    gstreamer1.0-plugins-good
+sudo apt-get install -y libmtdev-dev
+sudo apt-get install -y xclip
+sudo mkdir /root/.kivy
+sudo cp config.ini /root/.kivy/
 echo "Instalacion terminada"
 sleep 1
 echo "[Escribe: [Y|y] para confirmar u otra caso para denegar]"
