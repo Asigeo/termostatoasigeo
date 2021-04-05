@@ -1,0 +1,11 @@
+[Unit]
+Description=Asigeo App
+After=serverInar.service
+
+[Service]
+Restart=always
+RestartSec=1
+ExecStart=/usr/bin/python3 /home/pi/ASIGEO/Main1Pant.py
+
+[Install]
+WantedBy=multi-user.target

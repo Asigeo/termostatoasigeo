@@ -70,23 +70,50 @@ fi
 
 echo "Estableciendo App para que se ejecute en boot"
 sleep 1
-if [ ! -f "/etc/rc.local" ]
+echo "Estableciendo servicio server Inar"
+sleep 1
+if [ ! -f "/etc/systemd/system/serverInar.service" ]
 then 
-	echo "Fichero rc.local no existe en el equipo"
-	exit 1
+	sudo cp serverInar.service /etc/systemd/system/
 else
-	echo "#!/bin/sh" > /etc/rc.local
-	echo "_IP=\$(hostname -I) || true" >> /etc/rc.local
-	echo "if [ \"$_IP\" ]; then" >> /etc/rc.local
-	echo "	printf \"My IP address is %s\n\" \"$_IP\"" >> /etc/rc.local
-	echo "fi" >> /etc/rc.local
-
-	echo "sudo /home/pi/ASIGEO/server &" >> /etc/rc.local
-	echo "sudo python3 /home/pi/ASIGEO/Main1Pant.py &" >> /etc/rc.local
-	echo "sudo python3 /home/pi/ASIGEO/ScreenTimer.py &" >> /etc/rc.local
-
-	echo "exit 0" >> /etc/rc.local
+	echo "[Escribe: [Y|y] para confirmar u otra caso para denegar]"
+	read -p "Quiere reescribir el fichero del servicio?\n"$OPTION  -n 1 -r
+	if [[ $REPLY =~ ^[Yy]$ ]]
+	then
+	    sudo cp serverInar.service /etc/systemd/system/
+	fi
 fi
+echo "Estableciendo servicio Asigeo App"
+sleep 1
+if [ ! -f "/etc/systemd/system/asigeoApp.service" ]
+then 
+	sudo cp asigeoApp.service /etc/systemd/system/
+else
+	echo "[Escribe: [Y|y] para confirmar u otra caso para denegar]"
+	read -p "Quiere reescribir el fichero del servicio?\n"$OPTION  -n 1 -r
+	if [[ $REPLY =~ ^[Yy]$ ]]
+	then
+	    sudo cp asigeoApp.service /etc/systemd/system/
+	fi
+fi
+echo "Estableciendo servicio screen timer"
+sleep 1
+if [ ! -f "/etc/systemd/system/screenService.service" ]
+then 
+	sudo cp screenService.service /etc/systemd/system/
+else
+	echo "[Escribe: [Y|y] para confirmar u otra caso para denegar]"
+	read -p "Quiere reescribir el fichero del servicio?\n"$OPTION  -n 1 -r
+	if [[ $REPLY =~ ^[Yy]$ ]]
+	then
+	    sudo cp screenService.service /etc/systemd/system/
+	fi
+fi
+
+sudo systemctl daemon-reload
+sudo systemctl enable serverInar.service
+sudo systemctl enable asigeoApp.service
+sudo systemctl enable screenService.service
 
 echo "Instalando dependencias necesarias"
 sudo apt-get -y update
@@ -110,8 +137,21 @@ sudo apt-get install -y \
     gstreamer1.0-plugins-good
 sudo apt-get install -y libmtdev-dev
 sudo apt-get install -y xclip
-sudo mkdir /root/.kivy
-sudo cp config.ini /root/.kivy/
+
+echo "Escribiendo el fichero de configuracion de kivy"
+sleep 1 
+if [ ! -d "/root/.kivy" ]
+then 
+	sudo mkdir /root/.kivy
+	sudo cp config.ini /root/.kivy/
+else
+	echo "[Escribe: [Y|y] para confirmar u otra caso para denegar]"
+	read -p "Quiere reescribir el fichero de configuracion de kivy?\n"$OPTION  -n 1 -r
+	if [[ $REPLY =~ ^[Yy]$ ]]
+	then
+	    sudo cp config.ini /root/.kivy/
+	fi
+fi
 echo "Instalacion terminada"
 sleep 1
 echo "[Escribe: [Y|y] para confirmar u otra caso para denegar]"

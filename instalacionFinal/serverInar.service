@@ -1,0 +1,11 @@
+[Unit]
+Description=TB Server API
+After=network.target
+
+[Service]
+Restart=always
+RestartSec=1
+ExecStart=/home/pi/ASIGEO/server
+
+[Install]
+WantedBy=multi-user.target
