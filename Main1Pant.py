@@ -18,6 +18,7 @@ Config.set('kivy', 'keyboard_mode', 'systemanddock')
 
 Config.set("graphics", "width", "650")
 Config.set("graphics", "height", "390")
+Config.set("graphics", "show_cursor", 0)
 Config.write()
 from LogicaUna import LogicaZona, LogicaZonaDirecta
 from kivy.app import App

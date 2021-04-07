@@ -55,7 +55,6 @@ PASS=""
 while : ; do
 	read -n 1 k <&1
 	if [[ $k = "" ]] ; then
-		printf "\nQuitting from the program\n"
 		break
 	else
 		PASS="$PASS$k"
