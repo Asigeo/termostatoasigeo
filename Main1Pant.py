@@ -1118,12 +1118,12 @@ def lectura_sondas(app):
 		if contador == 10:
 			semTelemetry.acquire()
 			app.t_agua[0] = round(app.chanels[2], 1)
-			app.t_agua[1] = round(app.chanels[2], 1)  # Esto hay que cambiarlo luego, SOLO TEST
+			app.t_agua[1] = round(app.chanels[5], 1)  # Esto hay que cambiarlo luego, SOLO TEST
 			app.t_ext = round(np.mean(arr_text), 1)
 			app.t_suelo[0] = round(np.mean(arr_tsuelo1), 1)
 			app.t_amb[0] = round(np.mean(arr_tamb1), 1)
-			app.t_suelo[1] = round(np.mean(arr_tsuelo1), 1)  # SOLO TEST
-			app.t_amb[1] = round(np.mean(arr_tamb1), 1)
+			app.t_suelo[1] = round(np.mean(arr_tsuelo2), 1)  # SOLO TEST
+			app.t_amb[1] = round(np.mean(arr_tamb2), 1)
 			app.t_amb[2] = round(app.chanels[7], 1)
 			sem1.acquire()
 			sensor_data = createJSON([[app.t_suelo[0],app.t_amb[0],app.t_agua[0]],[app.t_suelo[1],app.t_amb[1],app.t_agua[1]],[app.t_amb[2]],[app.t_ext]])

@@ -10,10 +10,10 @@ git remote update
 git pull origin develop
  
 # 4. Created a release branch that tracks origin/develop
-git checkout -b release/1.1 origin/develop
+git checkout -b release/1.2 origin/develop
  
 # 5. Pushed release branch to remote repository
-git push origin release/1.1
+git push origin release/1.2
  
 # 6. Opened a "pull request" in GitHub for team to verify the release
  
@@ -24,10 +24,10 @@ git checkout master
 git pull origin master
  
 # 9. Merged release branch into master branch
-git merge release/1.1
+git merge release/1.2
  
 # 10. Tagged the release point by creating a new tag
-git tag -a 1.1 -m 'Create release tag 1.1'
+git tag -a 1.2 -m 'Create release tag 1.2'
  
 # 11. Pushed master branch to remote repository
 git push origin master
@@ -39,13 +39,13 @@ git push origin --tags
 git checkout develop
  
 # 14. Merged release branch into develop branch
-git merge release/1.1
+git merge release/1.2
  
 # 15. Pushed develop branch to remote repository
 git push origin develop
  
 # 16. Removed release branch from the local repository
-git branch -D release/1.1
+git branch -D release/1.2
  
 # 17. Removed release branch from the remote repository
-git push origin :release/1.1
+git push origin :release/1.2
