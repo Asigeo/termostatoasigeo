@@ -50,6 +50,16 @@ envioMSG=""
 ultenvioMSG=[]
 
 
+config = configparser.ConfigParser()
+config.read('./settings.ini')
+
+IP1=config['NET']['ip1']
+IP2=config['NET']['ip2']
+IP3=config['NET']['ip3']
+SERVER=config['NET']['server']
+
+
+
 def on_message(client, userdata, message):  # The callback\n for when a PUBLISH message is received from the server.
 	print("Message received", message.payload)  # Print a received msg
 	sem.acquire()
@@ -238,7 +248,7 @@ class ServerAPI():
 
 class ServerAPITB():
 	client = paho.Client('TBTest', clean_session=True, userdata=None, protocol=paho.MQTTv311, transport="tcp")
-	tb_host = "thingsboard.cloud"
+	tb_host = SERVER
 	tb_port = 1883
 
 	ACCESS_TOKEN_TB = ''
@@ -248,7 +258,7 @@ class ServerAPITB():
 	socks=[]
 	server_side=0
 
-	def __init__(self, port=51232, hostname='localhost', tb="thingsboard.cloud", tb_p=1883):
+	def __init__(self, port=51232, hostname='localhost', tb=SERVER, tb_p=1883):
 		self.server_side = Server(port, hostname)
 		print("Soy: ", self.client)
 		self.tb_host = tb
@@ -430,7 +440,7 @@ def service_connectionAPI(key, mask, client, host):
 	data = key.data
 	global ultenvioMSG
 	if mask & selectors.EVENT_READ:
-		if(client.getServerSide().getHostname()!='127.0.0.2'):
+		if(client.getServerSide().getHostname()!=IP2):
 			try:
 				recv_data = client.receiveMsg(host)  # Should be ready to read
 			except Exception as error:
@@ -463,7 +473,7 @@ def service_connectionAPI(key, mask, client, host):
 				data.outb = data.outb + ['C' + recv_data[0]]
 				recv_data = recv_data[1:]
 
-	elif (client.getServerSide().getHostname()=='127.0.0.2'):
+	elif (client.getServerSide().getHostname()==IP2):
 		sem.acquire()
 		global envioMSG
 		if envioMSG != "" and not equalMsg(envioMSG, ultenvioMSG):
@@ -481,7 +491,7 @@ def service_connectionAPI(key, mask, client, host):
 			s = data.outb[0]
 			print("Mensaje Original: ", s) 
 			if s[0] == 'C':
-				if (client.getServerSide().getHostname()!='127.0.0.2'):
+				if (client.getServerSide().getHostname()!=IP2):
 					s=s[1:]
 					s=s+'\n'
 					print(client.getServerSide().getHostname(),' sending ',repr(s))
@@ -490,7 +500,7 @@ def service_connectionAPI(key, mask, client, host):
 					if len(data.outb[0])==0:
 						data.outb = data.outb[1:]
 				###rutina de TB
-				if(client.getServerSide().getHostname()=='127.0.0.2' and s!='Cack'):
+				if(client.getServerSide().getHostname()==IP2 and s!='Cack'):
 					s=s[1:]
 					print("Telemetría enviada: ", json.loads(s))
 					if 'modo' in s:
@@ -510,7 +520,7 @@ def service_connectionAPI(key, mask, client, host):
 						ultenvioMSG.append(s)
 					data.outb = data.outb[1:]
 					data.outb = ['Sack'] + data.outb
-				elif(client.getServerSide().getHostname()=='127.0.0.2' and s=='Cack'):
+				elif(client.getServerSide().getHostname()==IP2 and s=='Cack'):
 					data.outb = data.outb[1:]
 			elif s[0] == 'S':
 				s=s[1:]
@@ -557,7 +567,7 @@ def DemoServerAPITB(port, host, portServer, hostServer):
 		server.getServerSide().addSelector(None)
 		server.setMQTTClientOnMessage()  # Define callback\n function for receipt of a message
 		config = configparser.ConfigParser()
-		config.read('/home/pi/ASIGEO/token.ini')
+		config.read('./token.ini')
 		server.setCredentials(config['SECURITY']['token'])# Connect to ThingsBoard using default MQTT port and 60 seconds keepalive interval
 		server.connectTB()
 		while True:
@@ -570,7 +580,7 @@ def DemoServerAPITB(port, host, portServer, hostServer):
 
 
 if __name__ == "__main__":
-	t1 = threading.Thread(target=DemoServerAPITB, args=(51412,'127.0.0.2',51412,'127.0.0.1',))
+	t1 = threading.Thread(target=DemoServerAPITB, args=(51412,IP2,51412,IP1,))
 	t1.start()
-	x = threading.Thread(target=DemoServerAPI, args=(51412,'127.0.0.3',51412,'127.0.0.2',))
+	x = threading.Thread(target=DemoServerAPI, args=(51412,IP3,51412,IP2,))
 	x.start()

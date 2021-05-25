@@ -53,6 +53,14 @@ semConsignas = threading.Semaphore()
 
 mcp = MCP3208(clk=CLK, cs=CS, miso=MISO, mosi=MOSI)
 
+
+config = configparser.ConfigParser()
+config.read('./settings.ini')
+
+
+IPCLIENT=['NET']['ipclient']
+
+
 class Client:
 
 	hostname=0
@@ -262,7 +270,7 @@ def service_connectionClient(key, mask, client, host, app, firstconnection):
 
 def DemoClient(port, host, app):
 	time.sleep(60)
-	client = Client('127.0.0.4')
+	client = Client(IPCLIENT)
 	server_addr = (host, port)
 	print('Client starting connection', 0, 'to', server_addr)
 	client.asincrono()
