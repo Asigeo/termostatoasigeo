@@ -51,7 +51,7 @@ ultenvioMSG=[]
 
 
 config = configparser.ConfigParser()
-config.read('./settings.ini')
+config.read('/home/pi/ASIGEO/settings.ini')
 
 IP1=config['NET']['ip1']
 IP2=config['NET']['ip2']
@@ -567,7 +567,7 @@ def DemoServerAPITB(port, host, portServer, hostServer):
 		server.getServerSide().addSelector(None)
 		server.setMQTTClientOnMessage()  # Define callback\n function for receipt of a message
 		config = configparser.ConfigParser()
-		config.read('./token.ini')
+		config.read('/home/pi/ASIGEO/token.ini')
 		server.setCredentials(config['SECURITY']['token'])# Connect to ThingsBoard using default MQTT port and 60 seconds keepalive interval
 		server.connectTB()
 		while True:

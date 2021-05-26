@@ -36,6 +36,8 @@ import sys
 import selectors
 import types
 import logging
+import configparser
+
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', filename='asigeo.log', filemode='w+', level=logging.INFO)
 # Software SPI configuration:
 CLK = 11
@@ -55,10 +57,10 @@ mcp = MCP3208(clk=CLK, cs=CS, miso=MISO, mosi=MOSI)
 
 
 config = configparser.ConfigParser()
-config.read('./settings.ini')
+config.read('/home/pi/ASIGEO/settings.ini')
 
 
-IPCLIENT=['NET']['ipclient']
+IPCLIENT=config['NET']['ipclient']
 
 
 class Client:
